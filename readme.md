@@ -314,7 +314,7 @@ Depois de fazer várias edições na imagem, não encontramos nada que poderia s
 Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/profile/ordemparanormal.com.br/post/3l72mdw77ug2q) postou mais uma arte, dessa vez o que aparentava ser o quarto de Agatha, com vários post-its e desenhos colados na parede, um espelho de mesa refletindo uma janela com a lua à mostra, vários livros e anotações na mesa e o brinco de pena de Agatha. Referências como Shadow da franquia Sonic e a banda Babymetal também aparecem, reforçando ainda mais que a arte tem relação com ela.
 ![Quarto Agatha](./Redes/bluesky/ordem/quarto_agatha.jpg)
 
-No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.net/@ordemparanormal/post/DBbn2oGPXyy), aparenta ser um dos membros da familia Strach, também conhecido como Yuri Strach. Ele aparenta estar sentando em uma janela olhando a lua.
+No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.net/@ordemparanormal/post/DBbn2oGPXyy), aparenta ser a Aghata, Ele aparenta estar sentando em uma janela olhando a lua.
 
 ![Yuri Strach varanda](./Redes/threads/ordem/yuri_sentado.jpg)
 
