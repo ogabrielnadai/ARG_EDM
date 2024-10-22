@@ -31,16 +31,16 @@ Logo após a publicação misteriosa, foram adicionadas novas imagens codificada
 
 ![Nuuvem](./Redes/edits/nuuvemdica.png)
 
-## 1 - Mia e Verissimo.
+## 1 - Mia e Verissímo.
 Essas imagens faziam parte da arte comemorativa postada nas redes sociais de Ordem Paranormal durante o Natal de 2022, onde Mia e o Senhor Veríssimo estão presentes.
 
-![Mia e Verissimo Natal](./Redes/edits/miaverissimo.png)
+![Mia e Verissímo Natal](./Redes/edits/miaverissimo.png)
 
-![Mia e Verissimo](./1_-_Mia_e_Verissimo/mia_verissimo_natal.png)
+![Mia e Verissímo](./1_-_Mia_e_Verissimo/mia_verissimo_natal.png)
 
 Ao unir as duas imagens e rotacionar *90°* em sentido horário, descobrimos uma série de caracteres escondida em meio aos recortes das fotos: `GX266lL9HcE`. Usando esses caracteres como se fossem um link de um vídeo do YouTube, chegamos a próxima parte.
 
-![Mia e Verissimo Solução](./1_-_Mia_e_Verissimo/mia_verissimo_natal_solucao.png)
+![Mia e Verissímo Solução](./1_-_Mia_e_Verissimo/mia_verissimo_natal_solucao.png)
 
 
 ### Youtube
@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/93fe9d19-30f2-4823-b50c-25aac1de0567
 * Nome do video: ?
 * Nome do canal: v1s_un1ta_f0rt10r
 * Nome do canal está em leetcode.
-Ou seja algumas letras foram trocadas por numeros.
+Ou seja algumas letras foram trocadas por números.
 
 A tradução fica em latim de **Vis Unita Fortior** significa *"Unidos Venceremos"*.
 
@@ -80,16 +80,16 @@ rosnado sendo risco e latido igual a ponto. Com isso, conseguimos:
 
 Traduzindo temos: `mauvaispresage` (Uma palavra em Francês que significa '*Mau Presságio*')
 
-Se olharmos bem a forma como a lanterna ascende num formato que parece ser o instagram.
+Se olharmos bem a forma como a lanterna ascende num formato que parece ser o Instagram.
 
 ### Instagram
 ![Instagram](./1_-_Mia_e_Verissimo/instagramxyoutube.gif)
 
-Indo para o instagram procurandos pelas frases e mensagens que temos.
+Indo para o Instagram procuramos pelas frases e mensagens que temos.
 
 Encontramos a conta do `v1s_un1ta_f0rt10r` no [Instagram](https://www.instagram.com/v1s_un1ta_f0rt10r)
 
-Essa conta possuia uma foto de perfil que parece ser o espantalho do jogo.
+Essa conta possuía uma foto de perfil que parece ser o espantalho do jogo.
 
 ![pfp](./Redes/Instagram/v1s_un1ta_f0rt10r/pfp.jpg)
 
@@ -98,7 +98,7 @@ Acessando o Instagram, vimos que 13 horas antes do enigma começar, a conta havi
 Basicamente nesse story temos:
 * Preto atraso muito longo temos "-"
 * Preto com atraso curto temos "."
-* Branco com atraso rapido temos " "
+* Branco com atraso rápido temos " "
 
 Juntando todos os stories temos um código morse novamente.
 
@@ -109,7 +109,7 @@ Juntando todos os stories temos um código morse novamente.
 
 O resultado desse morse é [oth3r site](https://oth3r.site)
 
-Ao acessar esse site você é dirececionado para a página da steam do jogo [Steam](https://store.steampowered.com/app/1507580/).
+Ao acessar esse site você é direcionado para a página da steam do jogo [Steam](https://store.steampowered.com/app/1507580/).
 
 Porém ao colocar 
 **ALEA-IACTA-EST** no final do link [https://oth3r.site/ALEA-IACTA-ES](https://oth3r.site/ALEA-IACTA-ES) somos redirecionados para um link do mega:
@@ -127,7 +127,7 @@ O RAR tinha senha, e a única coisa que havia sobrado para nós era **"mauvais p
 
 Editando a imagem do lobo, achamos alguns *Sigilos do Outro Lado*. Transcrevendo eles, conseguimos Aquele Sentimento, e traduzindo, tínhamos a frase `"AQUELE SENTIMENTO`".
 
-![Visao Solução](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/visao_solucao.png)
+![Visão Solução](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/visao_solucao.png)
 
 a outra imagem continha uma captura de tela, de um celular, da área externa da casa da Família Strach, com o nome "**sem_sinal.png**". editando a imagem e selecionando para ser mostrada apenas a camada de cor azul da imagem, descobrimos outra imagem escondida nela, tendo vários itens de exploração espalhados pelo chão e patas de um cachorro no topo. A lanterna, que iluminava o que parecia ser um diário no chão.
 
@@ -146,11 +146,11 @@ Novamente, o que nós tínhamos sobrando era "**aquelesentimento**". Usando como
 
 A primeira imagem **exspecta at** cuja tradução é "`espera em`" tem um olho com alguns sigilos que traduzidos dão vis unita fortior, a mesma frase que vimos antes.
 
-![exspecta at solucao](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/exspecta%20at_solucao.png)
+![exspecta at solução](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/exspecta%20at_solucao.png)
 
-Isso da entender para aguardamos no instagram para uma próxima parte, enquanto isso podemos olhar para imagem loop.png, nela podemos observar que algumas patinhas tem padroes diferentes, aqui encontramos códigos binários sendo 1 para quando existe dedo na pata e 0 quando não existe.
+Isso da entender para aguardamos no Instagram para uma próxima parte, enquanto isso podemos olhar para imagem loop.png, nela podemos observar que algumas patinhas tem padrões diferentes, aqui encontramos códigos binários sendo 1 para quando existe dedo na pata e 0 quando não existe.
 
-![loop solucao](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/loop%20solucao.png)
+![loop solução](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/loop%20solucao.png)
 
 Temos o seguinte binário: 
 ```bash
@@ -162,18 +162,18 @@ Traduzindo este código para ASCII temos
 A frase traduzida pode ser lida como
 **">está.esperando.por.mim<"** ou **">it.is.waiting.for.me<"**, vindo do estoniano. 
 
-Guardamos essa informação e aguardamos no instagram.
+Guardamos essa informação e aguardamos no Instagram.
 até as 2024-10-18T08:02:13.000Z tivemos a [postagem](https://www.instagram.com/p/DBQg_bpxIyI/) de uma imagem com algumas palavras em linhas e colunas.
 
 ![palavras](./Redes/Instagram/v1s_un1ta_f0rt10r/postagem1.jpg)
 
 Para resolver esse caso tivemos que identificar primeiramente a posição onde o texto de baixo estava em linhas e alinhado a esquerda, o texto de cima estava em colunas e alinhado a esquerda também, isso é uma dica para criarmos uma espécie de tabela.
-Após fazer isso identificaos que todas as palavras do texto tinham a letra "I" e todas em maiusculo. Após alguns teste identificamos que na verdade deveriamos usar como numeral romano.
-Após aplicar numeral romando podemos enxergar o que é um layout de nanogram a pós aplicar regras de um nonograma na imagem conseguimos um código DataMatrix.
+Após fazer isso identificamos que todas as palavras do texto tinham a letra "I" e todas em maiúsculo. Após alguns teste identificamos que na verdade deveríamos usar como numeral romano.
+Após aplicar numeral romano podemos enxergar o que é um layout de Nonograma a pós aplicar regras desse jogo na imagem conseguimos ver um código DataMatrix.
 
-![Palavra Solucao](./Redes/Instagram/v1s_un1ta_f0rt10r/postagem1_solucao.png)
+![Palavra Solução](./Redes/Instagram/v1s_un1ta_f0rt10r/postagem1_solucao.png)
 
-Formando o nonograma, percebemos que o formato dele se assemelhava a um código de barras que tínhamos visto há um bom tempo: DataMatrix. Escaneando o código, finalmente tínhamos algo: a palavra "`viisil`". **Caminho**, em estoniano. Um novo caminho para nós.
+Formando o Nonograma, percebemos que o formato dele se assemelhava a um código de barras que tínhamos visto há um bom tempo: DataMatrix. Escaneando o código, finalmente tínhamos algo: a palavra "`viisil`". **Caminho**, em estoniano. Um novo caminho para nós.
 
 #### vissil
 
@@ -217,7 +217,7 @@ Tendo as letras e cores, começamos a pensar no que elas iriam nos levar, separa
 
 Com isso, tentamos ver se havia algo que pudesse nos ajudar com esses corvos, até o momento em que o próprio Matt percebeu que circulando alguns corvos específicos, formava a frase "`YOU ARE`". Essa frase sozinha não nos ajudava muito, até percebermos nos metadados da foto que havia uma descrição: "`1_2_`".
 
-![tool solucao](./1_-_Mia_e_Verissimo/oth3rsite/inanis/tool_solucao.png)
+![tool solução](./1_-_Mia_e_Verissimo/oth3rsite/inanis/tool_solucao.png)
 
 ```
 Aqui ainda falta usar alguns passaros?
@@ -236,20 +236,20 @@ Basicamente Triadan nos levava ao sistema de arcada dentária de vários animais
 
 ![dica Instagram](./Redes/Instagram/v1s_un1ta_f0rt10r/postagem_3_dica_65%2083%2067%2073%2073.jpg)
 
-A conta do Instagram mais uma vez fez um [post](https://www.instagram.com/p/DBUBDM-Oqng/), representando a imagem do not_past com algumas palavras em cima dos valores: TRIADAN invertida em cima e SHIFT dos dois lados, além da legenda "`65 83 67 73 73`". Essa legenda, decodificada em código **ASCII**, ironicamente, nos dava a palavra "**ASCII**".
+A conta do Instagram mais uma vez fez um [post](https://www.instagram.com/p/DBUBDM-Oqng/), representando a imagem do not_past com algumas palavras em cima dos valores: Triadan invertida em cima e SHIFT dos dois lados, além da legenda "`65 83 67 73 73`". Essa legenda, decodificada em código **ASCII**, ironicamente, nos dava a palavra "**ASCII**".
 
 Ou seja, alguma coisa de ASCII estava relacionada com os números dos dois lados: 
 <center>
 "56 67 236 210 207 218 62 51 55 204 137 215 52 47 44 202". 
 </center>
 
-No meio de nossa procura mediante essas dicas, finalmente achamos a luz no fim do túnel: ASCII Shift Cipher. Usando ela e alternando as trocas de letra/shifts na ordem inversa, de acordo com o sistema TRIADAN da arcada dentária do cachorro (203 202 201 101 102 103), tínhamos a resposta: ""my#missing#piece".
-```
-NÃO USAMOS A DICA DO NOT_PAST
-```
-![not_past solucao 2](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_2.png)
+No meio de nossa procura mediante essas dicas, finalmente achamos a luz no fim do túnel: ASCII Shift Cipher. Usando ela e alternando as trocas de letra/shifts na ordem inversa, de acordo com o sistema Triadan da arcada dentária do cachorro (203 202 201 101 102 103), tínhamos a resposta: ""my#missing#piece".
 
-![dica triadan](./Redes/edits/dica_triadan.png)
+A dica **not_past** provavelmente seria para que não considerássemos os dentes de leite.
+
+![not_past solução 2](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_2.png)
+
+![dica Triadan](./Redes/edits/dica_triadan.png)
 
 O complemento do nosso outro .rar: `you_are_my#missing#piece`.
 
@@ -300,7 +300,7 @@ E surpreendentemente, após traduzidos, as letras formavam uma frase certa. Com 
 ![solucao dados](./1_-_Mia_e_Verissimo/oth3rsite/erimia_/solução_dos_dados.png)
 
 <center>
-Por ter uma peça de quebra-cabeça solta acreditamos que essa parte 1 do enigma foi finalizada e utilizaremos o que pegamos aqui mais para frente ou até no final do engima
+Por ter uma peça de quebra-cabeça solta acreditamos que essa parte 1 do enigma foi finalizada e utilizaremos o que pegamos aqui mais para frente ou até no final do enigma
 </center>
 
 ## Agatha Volkomenn
@@ -314,7 +314,7 @@ Depois de fazer várias edições na imagem, não encontramos nada que poderia s
 Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/profile/ordemparanormal.com.br/post/3l72mdw77ug2q) postou mais uma arte, dessa vez o que aparentava ser o quarto de Agatha, com vários post-its e desenhos colados na parede, um espelho de mesa refletindo uma janela com a lua à mostra, vários livros e anotações na mesa e o brinco de pena de Agatha. Referências como Shadow da franquia Sonic e a banda Babymetal também aparecem, reforçando ainda mais que a arte tem relação com ela.
 ![Quarto Agatha](./Redes/bluesky/ordem/quarto_agatha.jpg)
 
-No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.net/@ordemparanormal/post/DBbn2oGPXyy), aparenta ser a Aghata, Ele aparenta estar sentando em uma janela olhando a lua.
+No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.net/@ordemparanormal/post/DBbn2oGPXyy), aparenta ser a Agatha, Ele aparenta estar sentando em uma janela olhando a lua.
 
 ![Agatha varanda](./Redes/threads/ordem/yuri_sentado.jpg)
 
