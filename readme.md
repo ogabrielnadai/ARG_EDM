@@ -316,6 +316,6 @@ Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/prof
 
 No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.net/@ordemparanormal/post/DBbn2oGPXyy), aparenta ser a Aghata, Ele aparenta estar sentando em uma janela olhando a lua.
 
-![Yuri Strach varanda](./Redes/threads/ordem/yuri_sentado.jpg)
+![Agatha varanda](./Redes/threads/ordem/yuri_sentado.jpg)
 
 

@@ -49,5 +49,13 @@ O título da imagem, ''1 - Mia e Lupi''
 
 Ideia das constelações
 
-![Constelações](./Redes/edits/constelacoes.png)
+![Constelações](./2_-_Agatha_Volkomenn/ideias/constelacoes.png)
+![Constelações2](./2_-_Agatha_Volkomenn/ideias/constelacoes2.png)
 
+## Luas de Sangue
+
+Devido as luas da imagem se imagem que possa ter haver com eclipse lunar.
+como se estivesem contando uma historia das coisas que aconteceram com a Aghata.
+O proprio Cellbit disse que em algum momento ele queria contar essa histórias.
+Provavelmente agora!
+![Luas de sangue](./2_-_Agatha_Volkomenn/ideias/eclipse_lunar_total.png)
