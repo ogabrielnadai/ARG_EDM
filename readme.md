@@ -182,7 +182,7 @@ Olhando nas propriedades do arquivo de áudio, percebemos que, nos comentários 
 
 Ás 23:35, a conta do Instagram novamente fez um [post](https://www.instagram.com/p/DBSf-XuONek/), e dessa vez sendo um "*reels*". Um vídeo da imagem "*loop*" em sequência, literalmente fazendo um loop de imagem, com a legenda "*curvas sequere*"; e isso nos indicou que as duas coisas eram para ser resolvidas juntas.
 
-[!dica curvas sequere](./Redes/Instagram/v1s_un1ta_f0rt10r/curvas%20sequere.mp4)
+![dica curvas sequere](./Redes/Instagram/v1s_un1ta_f0rt10r/curvas%20sequere.mp4)
 
 Mesmo sendo uma tarefa difícil, pensar que o título do áudio dizia fazer o mesmo loop 10 vezes foi uma boa sacada. E eventualmente, percebemos que sempre devíamos seguir as mesmas curvas em sequência: ESQUERDA - DIREITA - ESQUERDA. E toda vez que houvesse apenas um passo de um lado, nós contávamos 0. Porém, caso esse passo correspondesse ao lado da curva da sequência (exemplo: se o passo que ocorreu na direita correspondesse à curva da direita), nós contávamos 1. E por último, em caso dos dois passos ocorrerem ao mesmo tempo, também contávamos 1. Com isso, finalmente achamos o código binário que nos faria sair desse pesadelo sem fim.
 
@@ -303,10 +303,11 @@ Por ter uma peça de quebra-cabeça solta acreditamos que essa parte 1 do enigma
 
 No quinto dia, e novamente às **16:13**, dessa vez a conta da [Dumativa no Twitter postou](https://x.com/dumativa/status/1848442416069845086/photo/1) uma imagem, no que parecia ser a visão da noite, com algumas estrelas e a lua no céu, pela janela de um quarto, com algumas roupas em cima de uma cadeira.
 
-[!cadeira agatha](./Redes/Twitter/duma/cadeira_agatha.jpg)
+![cadeira Agatha](./Redes/Twitter/duma/cadeira_agatha.jpg)
 
 Depois de fazer várias edições na imagem, não encontramos nada que poderia ser relevante para a continuação do enigma. Porém, identificamos as roupas que estavam em cima da cadeira como as roupas de Agatha Volkomenn: sua blusa vermelha, seu colar e a camisa que ela usa amarrada na cintura. Por saber disso, inferimos que a partir desse momento, os próximos enigmas teriam relação com Agatha, seguindo o caminho da imagem "loop", em que os primeiros enigmas eram sobre Mia e Lupi.
 
-Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/profile/did:plc:v6ci5ltfdlxtpeafhvpq3vxi/post/3l72mdw77ug2q) postou mais uma arte, dessa vez o que aparentava ser o quarto de Agatha, com vários post-its e desenhos colados na parede, um espelho de mesa refletindo uma janela com a lua à mostra, vários livros e anotações na mesa e o brinco de pena de Agatha. Referências como Shadow da franquia Sonic e a banda Babymetal também aparecem, reforçando ainda mais que a arte tem relação com ela.
+Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/profile/ordemparanormal.com.br/post/3l72mdw77ug2q) postou mais uma arte, dessa vez o que aparentava ser o quarto de Agatha, com vários post-its e desenhos colados na parede, um espelho de mesa refletindo uma janela com a lua à mostra, vários livros e anotações na mesa e o brinco de pena de Agatha. Referências como Shadow da franquia Sonic e a banda Babymetal também aparecem, reforçando ainda mais que a arte tem relação com ela.
+![Quarto Agatha](./Redes/bluesky/ordem/quarto_agatha.jpg)
 
 E é aqui onde estamos por agora.
