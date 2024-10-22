@@ -249,6 +249,7 @@ NÃO USAMOS A DICA DO NOT_PAST
 ```
 ![not_past solucao 2](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_2.png)
 
+![dica triadan](./Redes/edits/dica_triadan.png)
 
 O complemento do nosso outro .rar: `you_are_my#missing#piece`.
 
