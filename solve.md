@@ -39,6 +39,8 @@ A palavra ''N_O_N meminit'', que significa ''ele não se lembra''
 O título da imagem, ''1 - Mia e Lupi''
 ''Perimetro'' Perímetro é a medida do contorno de uma figura geométrica plana, ou seja, a soma de todos os seus lados
 
-# Coisas da Aghata
+## Coisas da Aghata
 
-...
+Ideia das constelações
+
+![Constelações](./Redes/edits/constelacoes.png)

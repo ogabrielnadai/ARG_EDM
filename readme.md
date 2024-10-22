@@ -314,4 +314,3 @@ Depois de fazer várias edições na imagem, não encontramos nada que poderia s
 Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/profile/ordemparanormal.com.br/post/3l72mdw77ug2q) postou mais uma arte, dessa vez o que aparentava ser o quarto de Agatha, com vários post-its e desenhos colados na parede, um espelho de mesa refletindo uma janela com a lua à mostra, vários livros e anotações na mesa e o brinco de pena de Agatha. Referências como Shadow da franquia Sonic e a banda Babymetal também aparecem, reforçando ainda mais que a arte tem relação com ela.
 ![Quarto Agatha](./Redes/bluesky/ordem/quarto_agatha.jpg)
 
-E é aqui onde estamos por agora.
