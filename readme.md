@@ -47,6 +47,10 @@ Ao unir as duas imagens e rotacionar *90°* em sentido horário, descobrimos uma
 https://www.youtube.com/watch?v=GX266lL9HcE
 
 
+
+https://github.com/user-attachments/assets/93fe9d19-30f2-4823-b50c-25aac1de0567
+
+
 #### Informações
 * Nome do video: ?
 * Nome do canal: v1s_un1ta_f0rt10r
@@ -136,17 +140,17 @@ Recebemos o arquivo: [parad0xo5.rar](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5.r
 
 Novamente, o que nós tínhamos sobrando era "**aquelesentimento**". Usando como senha, acessamos mais arquivos novos, e novamente mais duas imagens. A primeira se chamava "exspecta at.png", sendo uma imagem de cores distorcidas com um olho no meio e ao fundo, as espirais de Morte, com alguns sigilos ao redor. A segunda se chamava "loop.png", sendo uma imagem de uma trilha com pegadas de cachorro, com objetos de personagens relacionados ao jogo, dois lagos no meio do caminho e o símbolo do Medo no centro do cenário.
 
-![exspecta at](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/exspecta%20at.png)
+![exspecta at](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/exspecta%20at.png)
 
-![loop](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/loop.png)
+![loop](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/loop.png)
 
 A primeira imagem **exspecta at** cuja tradução é "`espera em`" tem um olho com alguns sigilos que traduzidos dão vis unita fortior, a mesma frase que vimos antes.
 
-![exspecta at solucao](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/exspecta%20at_solucao.png)
+![exspecta at solucao](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/exspecta%20at_solucao.png)
 
 Isso da entender para aguardamos no instagram para uma próxima parte, enquanto isso podemos olhar para imagem loop.png, nela podemos observar que algumas patinhas tem padroes diferentes, aqui encontramos códigos binários sendo 1 para quando existe dedo na pata e 0 quando não existe.
 
-![loop solucao](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/loop%20solucao.png)
+![loop solucao](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/loop%20solucao.png)
 
 Temos o seguinte binário: 
 ```bash
@@ -178,6 +182,10 @@ Acessando [oth3r.site/viisil](oth3r.site/viisil), fomos redirecionados para mais
 Olhando nas propriedades do arquivo de áudio, percebemos que, nos comentários do áudio, havia a frase `"curvas sequere"`, que traduzida, nos indicava para **"seguir as curvas"**, Ficamos presos aqui!
 
 Ás 23:35, a conta do Instagram novamente fez um [post](https://www.instagram.com/p/DBSf-XuONek/), e dessa vez sendo um "*reels*". Um vídeo da imagem "*loop*" em sequência, literalmente fazendo um loop de imagem, com a legenda "*curvas sequere*"; e isso nos indicou que as duas coisas eram para ser resolvidas juntas.[dica curvas sequere](./Redes/Instagram/v1s_un1ta_f0rt10r/curvas%20sequere.mp4)
+
+
+https://github.com/user-attachments/assets/2cebd515-264b-43b7-a8f9-86e5c9ddb4e8
+
 Mesmo sendo uma tarefa difícil, pensar que o título do áudio dizia fazer o mesmo loop 10 vezes foi uma boa sacada. E eventualmente, percebemos que sempre devíamos seguir as mesmas curvas em sequência: ESQUERDA - DIREITA - ESQUERDA. E toda vez que houvesse apenas um passo de um lado, nós contávamos 0. Porém, caso esse passo correspondesse ao lado da curva da sequência (exemplo: se o passo que ocorreu na direita correspondesse à curva da direita), nós contávamos 1. E por último, em caso dos dois passos ocorrerem ao mesmo tempo, também contávamos 1. Com isso, finalmente achamos o código binário que nos faria sair desse pesadelo sem fim.
 
 ```
@@ -259,6 +267,7 @@ Obviamente, nem todos os emuladores conseguiam emular o nosso arquivo. Porém, a
 Basicamente, tínhamos o **"Jogo da Cobrinha"**. Parecia até um jogo normal, de movimentar a cobrinha e ir em direção ao ponto branco (ou a maçã). Porém, toda vez que nós "comíamos a maçã", sempre havia um áudio, aparentemente significando que havíamos comido ela. Mas, depois, fomos procurar dentro do jogo e vimos que haviam diversos áudios separados. Juntando todos eles, tínhamos uma voz robotizada falando a frase `"THE GOD OF FEAR IS WATCHING"`, uma referência a famosa frase do trailer de Enigma do Medo, de que *"O DEUS DO MEDO ESTÁ OBERVANDO"*, além disso podemos observar que o nome do jogo é `T.G.O.F.I.W` esse audio ao completador o jogo inteiro se reproduz 5 vezes.
 
 [THE GOD OF FEAR IS WATCHING](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/CobrinhaFullEdit.wav)
+
 
 Enquanto jogávamos, percebemos que cada "maçã" que comíamos aparecia em espaços pré-definidos e alternados, e tendo como base o fato de que o grid onde estávamos jogando era feito de **25x25** pixels, pensamos em montar um código **QR** com os pixels. E ao chegar no fim do jogo, a frase `"Follow the White Rabbit"` aparecia, o que implicava que tínhamos que seguir o pixel branco e ele nos daria a resposta.
 
