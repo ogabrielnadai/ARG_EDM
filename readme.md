@@ -27,16 +27,14 @@ Todas as histórias precisam ser contadas um dia.
 
 Logo após a publicação misteriosa, foram adicionadas novas imagens codificadas nas páginas oficiais de Enigma do Medo na [Steam](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1507580/extras/cima.png?t=1729193582) e na [Nuuvem](https://www.nuuvem.com/lp/pt/enigma-do-medo/images/baixo.png) na estrutura textual do site. Cada uma das plataformas estava mencionada na foto misteriosa, com o ID do jogo na Steam à mostra em um papel pequeno (**1507580**), e o logotipo da Nuuvem sendo mostrado pela lanterna UV.
 
-![Steam ID](./Redes/edits/ARG_EDM_-_413_steam_id.png)
+![Steam ID](./Redes/edits/steamid.png)
 
-![Nuuvem](./Redes/edits/ARG_EDM_-_visao_sigilos.png)
+![Nuuvem](./Redes/edits/nuuvemdica.png)
 
 ## 1 - Mia e Verissimo.
 Essas imagens faziam parte da arte comemorativa postada nas redes sociais de Ordem Paranormal durante o Natal de 2022, onde Mia e o Senhor Veríssimo estão presentes.
 
 ![Mia e Verissimo Natal](./Redes/edits/miaverissimo.png)
-
-### Junção das partes
 
 ![Mia e Verissimo](./1_-_Mia_e_Verissimo/mia_verissimo_natal.png)
 
@@ -105,13 +103,12 @@ Juntando todos os stories temos um código morse novamente.
 ```
 ### Oth3r Site
 
-O resultado desse morse é
-[oth3r site](https://oth3r.site)
+O resultado desse morse é [oth3r site](https://oth3r.site)
 
 Ao acessar esse site você é dirececionado para a página da steam do jogo [Steam](https://store.steampowered.com/app/1507580/).
 
 Porém ao colocar 
-**ALEA-IACTA-EST** no final do link `https://oth3r.site/ALEA-IACTA-EST` somos redirecionados para um link do mega:
+**ALEA-IACTA-EST** no final do link [https://oth3r.site/ALEA-IACTA-ES](https://oth3r.site/ALEA-IACTA-ES) somos redirecionados para um link do mega:
 [aleiactaest](https://mega.nz/file/RRAESJYA#X6MzrpBgvoEcnBcduMgbaC2e-cb7ETyFHw0gMN6xrmU).
 
 #### aleiactaest
@@ -132,7 +129,7 @@ a outra imagem continha uma captura de tela, de um celular, da área externa da 
 
 ![Sem Sinal Solução](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/sem_sinal_solucao.png)
 
-Podemos Enxergar `parad0xo5`(paradoxos) com isso podemos ir para o link novamente `https://oth3r.site/parad0xo5` somos redirecionados para um link do mega:[parad0xo5.rar](https://mega.nz/file/YZJjhLSY#1ctemb9O6FFR66Rw4xDcZTKCgK2BaGew1v3yk5WZnP4).
+Podemos Enxergar `parad0xo5`(paradoxos) com isso podemos ir para o link novamente [https://oth3r.site/parad0xo5](https://oth3r.site/parad0xo5) somos redirecionados para um link do mega:[parad0xo5.rar](https://mega.nz/file/YZJjhLSY#1ctemb9O6FFR66Rw4xDcZTKCgK2BaGew1v3yk5WZnP4).
 
 #### parad0xo5
 Recebemos o arquivo: [parad0xo5.rar](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5.rar)
@@ -176,14 +173,11 @@ Formando o nonograma, percebemos que o formato dele se assemelhava a um código 
 
 #### vissil
 
-Acessando `oth3r.site/viisil`, fomos redirecionados para mais um link do mega [10.mp3](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) parte do enigma, e dessa vez um áudio. O nome do áudio era ["10"](./1_-_Mia_e_Verissimo/oth3rsite/viisil/10.mp3), tendo exatamente dois minutos de duração, com o que pareciam ser passos de alguém, tanto do lado esquerdo quanto do lado direito.
+Acessando [oth3r.site/viisil](oth3r.site/viisil), fomos redirecionados para mais um link do mega [10.mp3](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) parte do enigma, e dessa vez um áudio. O nome do áudio era ["10"](./1_-_Mia_e_Verissimo/oth3rsite/viisil/10.mp3), tendo exatamente dois minutos de duração, com o que pareciam ser passos de alguém, tanto do lado esquerdo quanto do lado direito.
 
 Olhando nas propriedades do arquivo de áudio, percebemos que, nos comentários do áudio, havia a frase `"curvas sequere"`, que traduzida, nos indicava para **"seguir as curvas"**, Ficamos presos aqui!
 
-Ás 23:35, a conta do Instagram novamente fez um [post](https://www.instagram.com/p/DBSf-XuONek/), e dessa vez sendo um "*reels*". Um vídeo da imagem "*loop*" em sequência, literalmente fazendo um loop de imagem, com a legenda "*curvas sequere*"; e isso nos indicou que as duas coisas eram para ser resolvidas juntas.
-
-![dica curvas sequere](./Redes/Instagram/v1s_un1ta_f0rt10r/curvas%20sequere.mp4)
-
+Ás 23:35, a conta do Instagram novamente fez um [post](https://www.instagram.com/p/DBSf-XuONek/), e dessa vez sendo um "*reels*". Um vídeo da imagem "*loop*" em sequência, literalmente fazendo um loop de imagem, com a legenda "*curvas sequere*"; e isso nos indicou que as duas coisas eram para ser resolvidas juntas.[dica curvas sequere](./Redes/Instagram/v1s_un1ta_f0rt10r/curvas%20sequere.mp4)
 Mesmo sendo uma tarefa difícil, pensar que o título do áudio dizia fazer o mesmo loop 10 vezes foi uma boa sacada. E eventualmente, percebemos que sempre devíamos seguir as mesmas curvas em sequência: ESQUERDA - DIREITA - ESQUERDA. E toda vez que houvesse apenas um passo de um lado, nós contávamos 0. Porém, caso esse passo correspondesse ao lado da curva da sequência (exemplo: se o passo que ocorreu na direita correspondesse à curva da direita), nós contávamos 1. E por último, em caso dos dois passos ocorrerem ao mesmo tempo, também contávamos 1. Com isso, finalmente achamos o código binário que nos faria sair desse pesadelo sem fim.
 
 ```
@@ -196,7 +190,7 @@ BIN:   0110111101110100011010000011001101110010001011100111001101101001011101000
 #### inanis
 Traduzindo o binário, chegamos em "`oth3r.site/inanis.hz`". O nosso próximo passo.
 
-Acessando *oth3r.site/inanis.hz*, somos apresentados a mais um .rar [inanis.rar](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) para baixar **inanis** temos uma palavra em latim que traduzido da `"Vazio"` . Usando aquele código das patinhas que pegamos anteriormente *">see.ootab.mind<"* como senha, temos acesso aos conteúdos desse .rar onde se encontra novamente de duas imagens: uma chamada "not_past.png", com vários números e um focinho de cachorro ou lobo mordendo a seção branca do meio; e a segunda chamada "tool.png", com vários pássaros em cima de cinco postes de luz.
+Acessando [oth3r.site/inanis.hz](oth3r.site/inanis.hz), somos apresentados a mais um .rar [inanis.rar](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) para baixar **inanis** temos uma palavra em latim que traduzido da `"Vazio"` . Usando aquele código das patinhas que pegamos anteriormente *">see.ootab.mind<"* como senha, temos acesso aos conteúdos desse .rar onde se encontra novamente de duas imagens: uma chamada "not_past.png", com vários números e um focinho de cachorro ou lobo mordendo a seção branca do meio; e a segunda chamada "tool.png", com vários pássaros em cima de cinco postes de luz.
 
 ![not_past](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past.png)
 
@@ -221,7 +215,7 @@ Com isso, tentamos ver se havia algo que pudesse nos ajudar com esses corvos, at
 Aqui ainda falta usar alguns passaros?
 ```
 
-Associando isso com a nossa frase, acessando `https://oth3r.site/you_are_`, chegamos vamos para o [mega](https://mega.nz/file/kcBjjK4L#PfeD7mG6mz4tih1vitr2P4I6mGddH1EpMbIOueLXRQI) a um novo arquivo [you_are_](./1_-_Mia_e_Verissimo/oth3rsite/you_are_.rar) , e mais um com senha.
+Associando isso com a nossa frase, acessando [https://oth3r.site/you_are_](https://oth3r.site/you_are_), chegamos vamos para o [mega](https://mega.nz/file/kcBjjK4L#PfeD7mG6mz4tih1vitr2P4I6mGddH1EpMbIOueLXRQI) a um novo arquivo [you_are_](./1_-_Mia_e_Verissimo/oth3rsite/you_are_.rar) , e mais um com senha.
 
 
 Enquanto isso, na imagem dos números e o focinho, tivemos a ideia de realmente contar a quantidade dos números do meio. Por exemplo, tendo o número **4444444**, contamos que haviam sete números quatro. E isso equivalia a **74**. Fazendo todo o processo, tínhamos `"74 72 69 61 64 61 614 20 73 68 69 66 74"`.
@@ -245,7 +239,7 @@ No meio de nossa procura mediante essas dicas, finalmente achamos a luz no fim d
 ```
 NÃO USAMOS A DICA DO NOT_PAST
 ```
-![not_past solucao 2](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_1.png)
+![not_past solucao 2](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_2.png)
 
 
 O complemento do nosso outro .rar: `you_are_my#missing#piece`.
