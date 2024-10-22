@@ -89,7 +89,7 @@ Encontramos a conta do `v1s_un1ta_f0rt10r` no [Instagram](https://www.instagram.
 
 Essa conta possuia uma foto de perfil que parece ser o espantalho do jogo.
 
-![pfp](./redes/Instagram/v1s_un1ta_f0rt10r/pfp.jpg)
+![pfp](./Redes/Instagram/v1s_un1ta_f0rt10r/pfp.jpg)
 
 Acessando o Instagram, vimos que 13 horas antes do enigma começar, a conta havia postado diversos [stories](https://www.instagram.com/stories/highlights/18027647033147850/), sendo uma sequência de imagens alternadas entre preto e branco.
 
@@ -120,36 +120,36 @@ Recebemos o arquivo
 
 O RAR tinha senha, e a única coisa que havia sobrado para nós era **"mauvais presage"**. Usando essa expressão como senha, conseguirmos extrair os arquivos presentes no arquivo .rar, sendo esses arquivos duas imagens.
 
-![visao](/1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/visao.png)
+![visao](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/visao.png)
 
-![sem_sinal](/1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/sem_sinal.png)
+![sem_sinal](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/sem_sinal.png)
 
 Editando a imagem do lobo, achamos alguns *Sigilos do Outro Lado*. Transcrevendo eles, conseguimos Aquele Sentimento, e traduzindo, tínhamos a frase `"AQUELE SENTIMENTO`".
 
-![Visao Solução](/1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/visao_solucao.png)
+![Visao Solução](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/visao_solucao.png)
 
 a outra imagem continha uma captura de tela, de um celular, da área externa da casa da Família Strach, com o nome "**sem_sinal.png**". editando a imagem e selecionando para ser mostrada apenas a camada de cor azul da imagem, descobrimos outra imagem escondida nela, tendo vários itens de exploração espalhados pelo chão e patas de um cachorro no topo. A lanterna, que iluminava o que parecia ser um diário no chão.
 
-![Sem Sinal Solução](/1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/sem_sinal_solucao.png)
+![Sem Sinal Solução](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/sem_sinal_solucao.png)
 
 Podemos Enxergar `parad0xo5`(paradoxos) com isso podemos ir para o link novamente `https://oth3r.site/parad0xo5` somos redirecionados para um link do mega:[parad0xo5.rar](https://mega.nz/file/YZJjhLSY#1ctemb9O6FFR66Rw4xDcZTKCgK2BaGew1v3yk5WZnP4).
 
 #### parad0xo5
-Recebemos o arquivo: [parad0xo5.rar](/1_-_Mia_e_Verissimo/oth3rsite/parad0xo5.rar)
+Recebemos o arquivo: [parad0xo5.rar](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5.rar)
 
 Novamente, o que nós tínhamos sobrando era "**aquelesentimento**". Usando como senha, acessamos mais arquivos novos, e novamente mais duas imagens. A primeira se chamava "exspecta at.png", sendo uma imagem de cores distorcidas com um olho no meio e ao fundo, as espirais de Morte, com alguns sigilos ao redor. A segunda se chamava "loop.png", sendo uma imagem de uma trilha com pegadas de cachorro, com objetos de personagens relacionados ao jogo, dois lagos no meio do caminho e o símbolo do Medo no centro do cenário.
 
-![exspecta at](1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/exspecta%20at.png)
+![exspecta at](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/exspecta%20at.png)
 
-![loop](/1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/loop.png)
+![loop](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/loop.png)
 
 A primeira imagem **exspecta at** cuja tradução é "`espera em`" tem um olho com alguns sigilos que traduzidos dão vis unita fortior, a mesma frase que vimos antes.
 
-![exspecta at solucao](/1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/exspecta%20at_solucao.png)
+![exspecta at solucao](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/exspecta%20at_solucao.png)
 
 Isso da entender para aguardamos no instagram para uma próxima parte, enquanto isso podemos olhar para imagem loop.png, nela podemos observar que algumas patinhas tem padroes diferentes, aqui encontramos códigos binários sendo 1 para quando existe dedo na pata e 0 quando não existe.
 
-![loop solucao](/1_-_Mia_e_Verissimo/oth3rsite/parad0xo5/loop%20solucao.png)
+![loop solucao](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/parad0xo5/loop%20solucao.png)
 
 Temos o seguinte binário: 
 ```bash
@@ -198,9 +198,9 @@ Traduzindo o binário, chegamos em "`oth3r.site/inanis.hz`". O nosso próximo pa
 
 Acessando *oth3r.site/inanis.hz*, somos apresentados a mais um .rar [inanis.rar](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) para baixar **inanis** temos uma palavra em latim que traduzido da `"Vazio"` . Usando aquele código das patinhas que pegamos anteriormente *">see.ootab.mind<"* como senha, temos acesso aos conteúdos desse .rar onde se encontra novamente de duas imagens: uma chamada "not_past.png", com vários números e um focinho de cachorro ou lobo mordendo a seção branca do meio; e a segunda chamada "tool.png", com vários pássaros em cima de cinco postes de luz.
 
-![not_past](/1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past.png)
+![not_past](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past.png)
 
-![tool](/1_-_Mia_e_Verissimo/oth3rsite/inanis/tool.png)
+![tool](./1_-_Mia_e_Verissimo/oth3rsite/inanis/tool.png)
 
 De primeira, percebemos na imagem dos pássaros que alguns deles continham olhos coloridos. Contando todos, vimos que haviam:
 
@@ -215,18 +215,18 @@ Tendo as letras e cores, começamos a pensar no que elas iriam nos levar, separa
 
 Com isso, tentamos ver se havia algo que pudesse nos ajudar com esses corvos, até o momento em que o próprio Matt percebeu que circulando alguns corvos específicos, formava a frase "`YOU ARE`". Essa frase sozinha não nos ajudava muito, até percebermos nos metadados da foto que havia uma descrição: "`1_2_`".
 
-![tool solucao](/1_-_Mia_e_Verissimo/oth3rsite/inanis/tool_solucao.png)
+![tool solucao](./1_-_Mia_e_Verissimo/oth3rsite/inanis/tool_solucao.png)
 
 ```
 Aqui ainda falta usar alguns passaros?
 ```
 
-Associando isso com a nossa frase, acessando `https://oth3r.site/you_are_`, chegamos vamos para o [mega](https://mega.nz/file/kcBjjK4L#PfeD7mG6mz4tih1vitr2P4I6mGddH1EpMbIOueLXRQI) a um novo arquivo [you_are_](./oth3rsite/you_are_.rar) , e mais um com senha.
+Associando isso com a nossa frase, acessando `https://oth3r.site/you_are_`, chegamos vamos para o [mega](https://mega.nz/file/kcBjjK4L#PfeD7mG6mz4tih1vitr2P4I6mGddH1EpMbIOueLXRQI) a um novo arquivo [you_are_](./1_-_Mia_e_Verissimo/oth3rsite/you_are_.rar) , e mais um com senha.
 
 
 Enquanto isso, na imagem dos números e o focinho, tivemos a ideia de realmente contar a quantidade dos números do meio. Por exemplo, tendo o número **4444444**, contamos que haviam sete números quatro. E isso equivalia a **74**. Fazendo todo o processo, tínhamos `"74 72 69 61 64 61 614 20 73 68 69 66 74"`.
 
-![not_past solucao 1](./oth3rsite/inanis/not_past_solucao_1.png)
+![not_past solucao 1](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_1.png)
 
 Olhando os números, já tínhamos ideia de que esse era um código hexadecimal, porém o número 614 não fazia sentido. Entretanto, sabíamos que além de números, códigos hexadecimais continham letras. E justamente o 14, que era único nessa imagem, era considerado a letra E em hexadecimal. E com isso, traduzindo de maneira certa, conseguimos as palavras "Triadan Shift".
 
@@ -245,7 +245,7 @@ No meio de nossa procura mediante essas dicas, finalmente achamos a luz no fim d
 ```
 NÃO USAMOS A DICA DO NOT_PAST
 ```
-![not_past solucao 2](./oth3rsite/inanis/not_past_solucao_1.png)
+![not_past solucao 2](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past_solucao_1.png)
 
 
 O complemento do nosso outro .rar: `you_are_my#missing#piece`.
@@ -254,25 +254,25 @@ Usando **my#missing#piece** como senha para o you_are_.rar, conseguimos extrair 
 
 #### you_are_
 
-Acessando o arquivo presente no .rar, vimos que o nome dele era ["RMG.z64"](./oth3rsite/you_are_/RMG.z64). Na mesma hora que vimos a extensão do arquivo, já era óbvio: iríamos fazer uma emulação de um jogo de Nintendo 64.
+Acessando o arquivo presente no .rar, vimos que o nome dele era ["RMG.z64"](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/RMG.z64). Na mesma hora que vimos a extensão do arquivo, já era óbvio: iríamos fazer uma emulação de um jogo de Nintendo 64.
 
 Obviamente, nem todos os emuladores conseguiam emular o nosso arquivo. Porém, a dica do nome dele nos entregou o único que realmente funcionava: RMG. E abrindo o jogo nesse emulador...
 
-![Start Game](./oth3rsite/you_are_/print_start_game.png)
+![Start Game](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/print_start_game.png)
 
-![Game Play](./oth3rsite/you_are_/print_in_game.png)
+![Game Play](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/print_in_game.png)
 
 Basicamente, tínhamos o **"Jogo da Cobrinha"**. Parecia até um jogo normal, de movimentar a cobrinha e ir em direção ao ponto branco (ou a maçã). Porém, toda vez que nós "comíamos a maçã", sempre havia um áudio, aparentemente significando que havíamos comido ela. Mas, depois, fomos procurar dentro do jogo e vimos que haviam diversos áudios separados. Juntando todos eles, tínhamos uma voz robotizada falando a frase `"THE GOD OF FEAR IS WATCHING"`, uma referência a famosa frase do trailer de Enigma do Medo, de que *"O DEUS DO MEDO ESTÁ OBERVANDO"*, além disso podemos observar que o nome do jogo é `T.G.O.F.I.W` esse audio ao completador o jogo inteiro se reproduz 5 vezes.
 
-[THE GOD OF FEAR IS WATCHING](./oth3rsite/you_are_/CobrinhaFullEdit.wav)
+[THE GOD OF FEAR IS WATCHING](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/CobrinhaFullEdit.wav)
 
 Enquanto jogávamos, percebemos que cada "maçã" que comíamos aparecia em espaços pré-definidos e alternados, e tendo como base o fato de que o grid onde estávamos jogando era feito de **25x25** pixels, pensamos em montar um código **QR** com os pixels. E ao chegar no fim do jogo, a frase `"Follow the White Rabbit"` aparecia, o que implicava que tínhamos que seguir o pixel branco e ele nos daria a resposta.
 
-![Follow the white Rabbit](./oth3rsite/you_are_/follow_the_rabbit.png)
+![Follow the white Rabbit](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/follow_the_rabbit.png)
 
 E com isso, a comunidade se prontificou tanto a jogar como também a mapear o **QR Code**. Diversas pessoas mandavam suas coordenadas enquanto outras faziam a montagem desse código. Eventualmente, depois de vários códigos QRs errados, finalmente achamos um que era reconhecido e nos dava uma informação.
 
-![QRCODE](./oth3rsite/you_are_/qrcode.png)
+![QRCODE](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/qrcode.png)
 
 #### erimia_
 
@@ -281,7 +281,7 @@ Escaneando o QR Code, ele nos devolvia o link [oth3r.site/erimia_](oth3r.site/er
 
 A imagem que tínhamos era uma arte de Mia e Lupi. O curioso é que já havíamos visto essa arte antes.
 
-![1 - Mia e Lupi.png](./oth3rsite/erimia_/1%20-%20Mia%20e%20Lupi.png)
+![1 - Mia e Lupi.png](./1_-_Mia_e_Verissimo/oth3rsite/erimia_/1%20-%20Mia%20e%20Lupi.png)
 
 Analisando a imagem, percebemos que já tínhamos passado por ela quando resolvemos o enigma do parad0xo5 e que a foto de perfil das contas **v1s_un1ta_f0rt10r** eram o espantalho presente nessa arte. Mas acima de tudo, ela também era a arte do pôster recebido pela Bagi no leilão de caridade produzido pelo [**CDawgVA**](https://youtu.be/_G342BIPut8?t=21428), feita pelo artista colombiano da comunidade, *Torrente*.
 
@@ -289,11 +289,11 @@ Mas agora, a imagem tinha suas diferenças. O diário, que antes tinha **"parad0
 
 Ao usarmos um alfabeto de adagas, vimos que a maioria dos símbolos, mesmo que forçadamente, se encaixavam no design de como foi feito.
 
-![Daggers Alphabet](./oth3rsite/erimia_/daggers_alphabet.png)
+![Daggers Alphabet](./1_-_Mia_e_Verissimo/oth3rsite/erimia_/daggers_alphabet.png)
 
 E surpreendentemente, após traduzidos, as letras formavam uma frase certa. Com isso, tínhamos a frase "NON MEMINIT", algo que parecia vir do latim, e que, quando traduzida, nos dava a frase "Ele não se lembra".
 
-![solucao dados](./oth3rsite/erimia_/solução_dos_dados.png)
+![solucao dados](./1_-_Mia_e_Verissimo/oth3rsite/erimia_/solução_dos_dados.png)
 
 <center>
 Por ter uma peça de quebra-cabeça solta acreditamos que essa parte 1 do enigma foi finalizada e utilizaremos o que pegamos aqui mais para frente ou até no final do engima
