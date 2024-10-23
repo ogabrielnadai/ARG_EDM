@@ -179,6 +179,12 @@ Formando o Nonograma, percebemos que o formato dele se assemelhava a um código 
 
 Acessando [http://oth3r.site/viisil](http://oth3r.site/viisil), fomos redirecionados para mais um link do mega [10.mp3](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) parte do enigma, e dessa vez um áudio. O nome do áudio era ["10"](./1_-_Mia_e_Verissimo/oth3rsite/viisil/10.mp3), tendo exatamente dois minutos de duração, com o que pareciam ser passos de alguém, tanto do lado esquerdo quanto do lado direito.
 
+
+
+https://github.com/user-attachments/assets/44e26cfd-e123-4d30-80c6-4554b69f61d3
+
+
+
 Olhando nas propriedades do arquivo de áudio, percebemos que, nos comentários do áudio, havia a frase `"curvas sequere"`, que traduzida, nos indicava para **"seguir as curvas"**, Ficamos presos aqui!
 
 Ás 23:35, a conta do Instagram novamente fez um [post](https://www.instagram.com/p/DBSf-XuONek/), e dessa vez sendo um "*reels*". Um vídeo da imagem "*loop*" em sequência, literalmente fazendo um loop de imagem, com a legenda "*curvas sequere*"; e isso nos indicou que as duas coisas eram para ser resolvidas juntas.[dica curvas sequere](./Redes/Instagram/v1s_un1ta_f0rt10r/curvas%20sequere.mp4)
@@ -268,6 +274,10 @@ Obviamente, nem todos os emuladores conseguiam emular o nosso arquivo. Porém, a
 Basicamente, tínhamos o **"Jogo da Cobrinha"**. Parecia até um jogo normal, de movimentar a cobrinha e ir em direção ao ponto branco (ou a maçã). Porém, toda vez que nós "comíamos a maçã", sempre havia um áudio, aparentemente significando que havíamos comido ela. Mas, depois, fomos procurar dentro do jogo e vimos que haviam diversos áudios separados. Juntando todos eles, tínhamos uma voz robotizada falando a frase `"THE GOD OF FEAR IS WATCHING"`, uma referência a famosa frase do trailer de Enigma do Medo, de que *"O DEUS DO MEDO ESTÁ OBERVANDO"*, além disso podemos observar que o nome do jogo é `T.G.O.F.I.W` esse audio ao completador o jogo inteiro se reproduz 5 vezes.
 
 [THE GOD OF FEAR IS WATCHING](./1_-_Mia_e_Verissimo/oth3rsite/you_are_/CobrinhaFullEdit.wav)
+
+
+https://github.com/user-attachments/assets/a39fdd8b-85f7-4366-8f56-0e62d4167f3b
+
 
 
 Enquanto jogávamos, percebemos que cada "maçã" que comíamos aparecia em espaços pré-definidos e alternados, e tendo como base o fato de que o grid onde estávamos jogando era feito de **25x25** pixels, pensamos em montar um código **QR** com os pixels. E ao chegar no fim do jogo, a frase `"Follow the White Rabbit"` aparecia, o que implicava que tínhamos que seguir o pixel branco e ele nos daria a resposta.
@@ -416,6 +426,11 @@ QR code montagem melhor visualização:
 Escaneando-o, ele nos devolvia [**http://oth3r.site/noxium**](http://oth3r.site/noxium). E acessando esse link para o [mega](https://mega.nz/file/dRJE3Rab#gIRJBZBQIpkku_ZNJCc0DQ49_63R0D3YIcV722wzZdc), chegamos em mais uma parte do enigma.
 
 O link nos dava acesso a um áudio chamado "[intenso](./2_-_Agatha_Volkomenn/noxium/intenso.mp3)", com o que parecia ser uma máquina de datilografia digitando intensamente.
+
+
+https://github.com/user-attachments/assets/b8e543bf-fd74-425f-9a5a-978b7947d949
+
+
 
 Apesar de parecer que isso seria difícil, mais uma vez os programadores de plantão entraram em ação. Fazendo um código para transformar um dos tipos de batida em 1 e o outro em 0, conseguimos um código binário:
 ```
