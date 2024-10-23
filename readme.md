@@ -112,7 +112,7 @@ O resultado desse morse é [oth3r site](https://oth3r.site)
 Ao acessar esse site você é direcionado para a página da steam do jogo [Steam](https://store.steampowered.com/app/1507580/).
 
 Porém ao colocar 
-**ALEA-IACTA-EST** no final do link [https://oth3r.site/ALEA-IACTA-ES](https://oth3r.site/ALEA-IACTA-ES) somos redirecionados para um link do mega:
+**ALEA-IACTA-EST** no final do link [https://oth3r.site/ALEA-IACTA-EST](https://oth3r.site/ALEA-IACTA-EST) somos redirecionados para um link do mega:
 [aleiactaest](https://mega.nz/file/RRAESJYA#X6MzrpBgvoEcnBcduMgbaC2e-cb7ETyFHw0gMN6xrmU).
 
 #### aleiactaest
