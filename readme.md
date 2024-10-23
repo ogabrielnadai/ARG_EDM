@@ -312,10 +312,141 @@ No quinto dia, e novamente às **16:13**, dessa vez a conta da [Dumativa no Twit
 Depois de fazer várias edições na imagem, não encontramos nada que poderia ser relevante para a continuação do enigma. Porém, identificamos as roupas que estavam em cima da cadeira como as roupas de Agatha Volkomenn: sua blusa vermelha, seu colar e a camisa que ela usa amarrada na cintura. Por saber disso, inferimos que a partir desse momento, os próximos enigmas teriam relação com Agatha, seguindo o caminho da imagem "loop", em que os primeiros enigmas eram sobre Mia e Lupi.
 
 Pouco mais tarde, a conta de [Ordem Paranormal no BlueSky](https://bsky.app/profile/ordemparanormal.com.br/post/3l72mdw77ug2q) postou mais uma arte, dessa vez o que aparentava ser o quarto de Agatha, com vários post-its e desenhos colados na parede, um espelho de mesa refletindo uma janela com a lua à mostra, vários livros e anotações na mesa e o brinco de pena de Agatha. Referências como Shadow da franquia Sonic e a banda Babymetal também aparecem, reforçando ainda mais que a arte tem relação com ela.
+
 ![Quarto Agatha](./Redes/bluesky/ordem/quarto_agatha.jpg)
 
 No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.net/@ordemparanormal/post/DBbn2oGPXyy), aparenta ser a Agatha, Ele aparenta estar sentando em uma janela olhando a lua.
 
-![Agatha varanda](./Redes/threads/ordem/yuri_sentado.jpg)
+![Agatha varanda](./Redes/threads/ordem/agatha_sentada.jpg)
+
+A conta do [TikTok](https://www.tiktok.com/@ordemparanormal/video/7428651894035221765) de Ordem, inativa por dois anos, postou um [vídeo](./Redes/tiktok/agatha.mp4) de uma arte de Agatha com a lua acima. Durante o vídeo, várias coisas aparecem de relance. Depois de baixarmos o vídeo e analisarmos, percebemos que eram sigilos piscando rapidamente. Anotando todos eles, conseguimos:
+E depois de dias sem algo para resolver, acessando [oth3r.site/stellae_conlineare.png](oth3r.site/stellae_conlineare.png), somos redirecionados para um link do [mega](https://mega.nz/file/oNx2DQaI#ZvJOdb77PJ8dGl_e4TNJ3wqkfMMigfpSe8T26ovHfl0) tínhamos acesso a mais uma parte do enigma. E mesmo sendo a mesma imagem do vídeo, já tínhamos a ideia de que "as estrelas deveriam se alinhar."
+
+![stellae_conlineare.png](./2_-_Agatha_Volkomenn/stellae_conlineare.png/stellae_conlineare.png)
+
+Claro, alinhar todas as estrelas manualmente seria um trabalho muito difícil. Por isso, um usuário da comunidade fez um código em Python que fazia o alinhamento automático para gerar uma imagem. 
+
+![barcode](./2_-_Agatha_Volkomenn/stellae_conlineare.png/barcode.png)
+
+E no final, o que foi gerado foi um código de barras. Lendo o código de barras, chegamos em "[scale.rar]". E é claro, acessando [oth3r.site/scale.rar](oth3r.site/scale.rar) nos redirecionava para o [mega](https://mega.nz/file/5YgEUK5R#kkt84oP-NkiuzJETcSiSng_J1cpCSkDaWogtJHqv1fk) e nos dava mais um arquivo.
+
+O arquivo [.rar](./2_-_Agatha_Volkomenn/scale.rar) tinha três arquivos: um outro .rar chamado "0x"; uma imagem chamada "1÷(x-1).png"; e um .txt chamado "xo". Entretanto, havia algo a mais: uma dica nos comentários do .rar: "**nom_LLLL**" e "**1921**".
+
+E essa dica foi o que nos fez perceber: as luas também eram importantes. Relacionando as luas com *1921* e percebendo que em cada imagem, elas tinham fases de eclipse diferentes, achamos a Escala de [Danjon](https://cref.if.ufrgs.br/?contact-pergunta=cor-da-lua-durante-seu-eclipse), uma escala de cinco pontos usada para medir a luminosidade e aparência da lua feita em 1921. Usando ela nas luas das imagens, ironicamente achamos a sequência "0413".
+E então, inferindo que a parte "nom" se referia ao nome de quem criou a escala, usando `"danjon_0413"` como senha extraiu os arquivos do .rar. Ou quase todos.
+
+![Escala Lunar](/2_-_Agatha_Volkomenn/ideias/eclipse_lunar_total.png)
+
+![Escala Solução](/2_-_Agatha_Volkomenn/ideias/eclipse_solucao.png)
+
+
+Dentro do arquivo rar temos apenas os arquivos 1÷(x-1).png e [xo.txt](./2_-_Agatha_Volkomenn/scale/xo.txt) foram abertos, com o 0x.rar ainda precisando de outra senha.
+
+![1÷(x-1)](/2_-_Agatha_Volkomenn/scale/1÷(x-1).png)
+
+Percebendo que o enigma provavelmente envolvia contas matemáticas, já entendemos que talvez seria uma tarefa bem difícil. Ficamos um bom tempo tentando encontrar alguma cifra que fazia sentido, como a Cifra dos 7 Segmentos, uma cifra com os formatos dos números em calculadora. Entretanto, nada se chegou com os valores deduzidos por ela. Tentamos também, obviamente, resolver as contas matemáticas, mas deduzir as letras formadas em números não foi o suficiente para nos dar um norte.
+
+Enquanto procurávamos por mais coisas, também mexíamos na parte textual da imagem, encontrando algo bem peculiar: no final do texto da imagem 1÷(x-1), havia uma espécie de código: "85.AB.110". Essa informação talvez poderia passar batida por nós, se não fosse pelo Cellbit reagindo a ela no Discord. 
+
+![Cellbit Reaction](./2_-_Agatha_Volkomenn/scale/1÷(x-1)_cellbit_reaction.png)
+
+A princípio, não tínhamos pensado que isso era algo relevante, mas tempo depois, quando começamos a falar sobre, a reação acabou sendo apagada.
+
+Também avançamos relativamente bem na questão do arquivo de texto xo. Reduzindo pela metade os caracteres do arquivo (exemplo: "xx"" vira "x" e "oo" vira "o") e convertendo X e O respectivamente para pixels pretos e brancos, percebemos que nos cantos superior esquerdo, superior direito e inferior esquerdo, algo semelhante aos quadrados de QR Codes estava sendo formado.
+
+![Qr Code pt1](./2_-_Agatha_Volkomenn/scale/xo_solucao_1.png)
+
+Sendo assim, inferimos que o que tínhamos em mãos seria algo para formar um QR Code, e por isso já deixamos pronto as figuras padrões que um QR Code tem.
+
+![Qr code pt2](./2_-_Agatha_Volkomenn/scale/xo_solucao_2.png)
+
+No fim, o que realmente nos fez avançar, pelo menos um pouco, era o código que tínhamos achado na parte textual. Procurando por esse código no Google nos fez chegar em um código de uma galeria de arte, mais especificamente para um busto específico. E um pouco depois, o **v1s_un1ta_f0rt10r** no [Instagram](https://www.instagram.com/stories/v1s_un1ta_f0rt10r/) postou um story, com uma sequência de números e letras.
+
+![Busto dica 1](./Redes/Instagram/v1s_un1ta_f0rt10r/postagem4_busto_dica1.png)
+
+Tendo como base de que todos eles talvez seriam bustos, começamos a listar todos, e realmente eram. Percebemos que três deles vinham do *Museu Getty Villa* e os outros três vinham do museu **THE MET**. E com isso, anotamos todos os bustos e também as datas relacionadas a eles.
+
+![Busto representação](./2_-_Agatha_Volkomenn/ideias/bustos_representacao.png)
+
+Mesmo assim, também não avançamos muito, e por isso, o **v1s_un1ta_f0rt10r** nos deu mais uma dica. Dessa vez, tínhamos uma estátua de um **rei ptolemaico**, também referenciado como uma estátua de **Alexandre II** como um **faraó**, ao lado de um número 8 no formato de calculadora.
+
+![Busto dica 2](./Redes/Instagram/v1s_un1ta_f0rt10r/postagem5_busto_dica2.jpg)
+
+Mais uma vez, ficamos por algum tempo pensando no que esses bustos significavam, até um usuário da comunidade postar uma imagem com os números/letras cortados pela metade, deixando apenas a parte de cima, que nem os bustos que tínhamos. E mais uma vez, o Cellbit reagiu, nos indicando o caminho certo.
+
+Tendo isso em mente, começamos a tentar observar o que essa imagem 1÷(x-1) tinha de interessante, até percebermos o formato dos riscos, setas, pontos... que quanto cortados ao meio são muito semelhantes às figuras da cifra de PigPen. 
+
+![Pig Peng Alphabet](./2_-_Agatha_Volkomenn/ideias/pig_peng_alphabet.png)
+
+Ao fazer a tradução, levando em conta que os pontos acompanhavam o símbolo anterior e ignorando alguns riscos aleatórios parecidos com o número 1:
+
+![Solucao 1 1÷(x-1)](./2_-_Agatha_Volkomenn/scale/1÷(x-1)_solucao.png)
+
+Pesquisando sobre algo feito por [**Nebuchadnezzar**](https://pt.wikipedia.org/wiki/Nabucodonosor_II) dedicado a [**Marduk III**](https://pt.wikipedia.org/wiki/Marduque), encontramos um templo nomeado "[**Etemenanki**](https://pt.wikipedia.org/wiki/Etemenanqui)", um zigurate dedicado ao deus Marduque na Babilônia. E enfim, usando "etemenanki" como senha finalmente abriu o 0x.rar.
+
+O arquivo dentro era um [.txt](./2_-_Agatha_Volkomenn/scale/0x/_.txt) com apenas um underline no nome, com um texto de vários números e letras. Vendo o padrão desse texto, instintivamente pensamos em apenas uma coisa: [**Library of Babel**](https://libraryofbabel.info/), um site bem conhecido como se fosse uma biblioteca universal de variação de letras, consistindo na famosa Torre de Babel. Ironicamente, *Etemenanki* era considerada como a inspiração para a torre, o que nos indicava o caminho certo.
+
+Sabíamos que precisávamos dar um "search" com o texto que tínhamos e encontrar uma seção específica. Porém, não tínhamos as coordenadas exatas.
+
+O Pontos encontrados na imagem Solucao 1 1÷(x-1) ainda não haviam sido resolvidos porém agora que tínhamos as dicas do library of babel só precisávamos contar quantos pontos haviam em sequência: 2, 1, 3, 1.
+
+![Solucao 2 1÷(x-1)](./2_-_Agatha_Volkomenn/scale/1÷(x-1)_solucao_2.png)
+
+E seguindo essa sequência na Library of Babel, com a Parede 2, a Estante 1, o Volume 3 e a Página 1:
+
+[Library of Babel](https://libraryofbabel.info/book.cgi?0nd3jb8vu12ed0a3s0oeioe1gwymvhmgf94faaobrv8lz510nl7fb2fjc1tr9gpdh0ajztjc2e5nnl3apz1qyl1gs4dtpmxc41ip2ye0978m1dq79jbnuk5stlw2a6s56in2ba7ghj747bezju6hawwahejek6cpwootf6ny0roxl5bj2ajh57kg0cg4t9bavx935k9i9f726dhb7echl9lmebastxhrvsqk4nmur9dr46tc2f3dz92vre4jx5qqpxg5smdo2c8v36amt99f2e3pysefz1hoxskcy6rfkczkuuipy3uelniqx7f97ei9fjw5h7pwt8a8m1o2v2x3psezesr4bp5ngtgrbkmr61cb46wym90er9c5jxche5a6fyhhyv72qj82em3lxmx3p60zl2jtheev4f97xz2rqvpzhfuq3g2rnddi6kyhg1w9o6hse8v87ibnakn0k1ymd6jw4er1r1zusco1sr99zur2grbgfr8d368c0n7jseleejqumliayhs0ej5ga7bhzsko696m3k8vyxennh4r8dg5ocq8wp1y81xyaah9uqmiwnx1x8j4wuyllk7a79zeek4ymrcu29t85fcag8s5moggo6wlfb2e2mkc1o7im7k8aa7f5nws87e58tx7xuo3qlht1efk1a8hz5c71fdwkaaenjsy6gog3e39vw0w29oaxqs5mi5pqgzx1l47i44ii9w550jgomnre9z8j7hh5mpxvn3ikccrkwkujirca5x5kqyxbrpmblkrglu7rgc4vj66wzmqs2ru5in024muxm25fu3h3tcd5fxm967t4zm9myx1oiyrhsw2k314kzbuzi7k1kruntedsc95b1240xflp3j4s8ra64drch2k90kdhz5fqr70gojth32eodh5ljygmkwhex0cq0pik3n2ritg2xtqbayly3x3chclfmrul34d1hiro0vbeioffpwu73kjinnhyi6dj0vwher8vowc9du5yu6sjxjbp9z4x3nlqx9qc3j2lo6f3n0qwxj0o7ay4qz1nuwmilqkceyfr1gn2a1m1i6lxygmezm3b84q552c8onc4m0853th6hbyb8u4lfv600883srp7xbs5smj52ea2ihjq9m0vot8uzo2peh6agyztww6849wjk317skeav2iqtfwbm03zx7ar1caudlc0owv6ndjw58g2v9nbes2bhtyl4uel3g8yjsigqmflyeigfidd20c208u2takjzrq8yua8cqiqpb6ive3084gy3mvnu8ktyfrna2g7euwq63kntpvguvxd66gtso73us1ezp6ymynudibunbzqpf0b5tjs3659izysc4jumh33ymmpffr4euycojzvywzbwc2twhsn65yzo1skzqzvdkqm71t7op2jancu2h1fvcy3lw34aok7q3swe9o0s0gokba3o8p951pcp1l955o3xr8pojaku4y49vbqoxy4067admepovnii3barsfd06j5ofkdxtbyx994qt6uacqqw5uamy468ib7i5adxxswg33w6amlwpcrpjaf474nxen8qq7tgueczvk396bmnfdbqgih2pw7hugw6e0x789mks58nu4vp580tfl7l3gx77fggsra5j08x84vto8gaiubs9xbio2knbn9nthi6abb6qfcscpji2lvh465y7o063ku9k49zrg03tzdcp7iphww15gacvidpk0recs1294iz99ngaxkh52lq8pml35dbcezr590lilwxx9klhghnxurvb1r6xvft4bs99gn6sdmpys54jip9pjpstem79jompvq2d67gvllltyvv1w6jxcp06wlrspmezzzdge4uiv6mwcqtmczqba12smrz6662psfyliwf37fznc5zz1gprehrqub7fhfcsmssl5bkznnj8y53u2e10k7sunr0x1kcw5vb7k3b5gkdvvph2w9swemfzgjz8qxzernx9crniddzmoyy3b4zrrx2kshhjkkkluh5voyddiggq5wtxlpaaflfdau9x7qt9cgqnnevi1ngcbfzeb3ljrrkrrag4u4ekr5p2ycw70vy75cjse9obugsv2uglggx65em5g03di55jx4cmocfglv7ir0fdl1yr5ucq93jaxjra6zlfjcrjdvhjy131subb7rj1pxw2ao232wwffi985b824tmyvowlz18903nh3vxqot5xg59458v93wypzvj612fhbqplapraahfktpufp188ua7hzt556ccspqnay53jdr6it0kud8dwxhqsgduk0akylj8965eyizrmdtm8va4kedcedibn6t1u8g6ctnksgxo297wrlug4g2s84jwwmv3kunbzru0j6jsnkvp2oothbnoo5lsf29j8mv3fmybap1230tay06l2t5gz73wo63kwmnqd1v7ffbv8p3ag462w07ocxezuz75d3i20983d3sqi2ddzbook6q8qbeuitzsjp7hec1rlaszrp5ydkbss3h53wc494g6gpbr3hr8shz2y7r7l33syi7wpw9699gg4izuzg9li4opcfxp97s27zhc9al40n9wyz45yy1c5hyqyb6i6n378uxptjahen8nz229x94mjcbnbxys50cs3wsbx2kuew4rydui1a10nvih1bku66xul72audwc5zn5bkxgbigdhz2mtetq05j9vfbmk2qnk8750qj3g77bufsnw2pm7twrzft0i7nunwyeuhswveffm7v19h5nmgf6kaq7h3c805nsknadgu7b46ctzqb74lholcia2vc1m2a08fhow82eyguimqb05u2xzm0fh0kf79mco02fayvm08xchuhgjmns8nr1wyz9sk3vnikfjyml05n7wk55j0n1yq0gepxs12ksom97c0oo2gzdczj22rwd0cqp5z9ady2vyze4i2xzfjzpc9gfr7butkdv3bvs02kmzgc39qnrz4m75ny36pb68i08d6xqb3bqz0h59pm1boj2vxpt13hk5w02pkef3qqzb2vydu0433idcqon51zp4o86gvg9hqc8sfxo793uq5lo5lsvswqchjgl7g1b28bcp1lganvgqgi32p7tnd9u8t6r7eniaokcmmfkmvgwit1nz5e75z4490eo63x75xgwcn11o9xkj467gbfi0vnbkyn7cx76maczn5azv5cwephwzemeld33cnrb2koeavg3vf71olgr-w2-s1-v03:1)
+
+![Library of Babel encontrado](./2_-_Agatha_Volkomenn/scale/0x/library_babel_find.png)
+
+
+Montagem do QRCODE:
+
+![Solucao Montagem QRCODE](./2_-_Agatha_Volkomenn/scale/0x/0x%20e%20_%20solucao.gif)
+
+QR code montagem melhor visualização:
+
+![QRCODE Montado](./2_-_Agatha_Volkomenn/scale/0x/qr_code_solucao.png)
+
+Escaneando-o, ele nos devolvia [**oth3r.site/noxium**](oth3r.site/noxium). E acessando esse link para o [mega](https://mega.nz/file/dRJE3Rab#gIRJBZBQIpkku_ZNJCc0DQ49_63R0D3YIcV722wzZdc), chegamos em mais uma parte do enigma.
+
+O link nos dava acesso a um áudio chamado "[intenso](./2_-_Agatha_Volkomenn/noxium/intenso.mp3)", com o que parecia ser uma máquina de datilografia digitando intensamente.
+
+Apesar de parecer que isso seria difícil, mais uma vez os programadores de plantão entraram em ação. Fazendo um código para transformar um dos tipos de batida em 1 e o outro em 0:
+```
+0000100011100110011
+0100001011001000010
+1001010100010011011
+1110111011111001100
+1111001010100101001
+0101111111111111001
+0101001111111011110
+0101001000001011101
+0101001011101010010
+1011101010101000111
+0000001011101001010
+0000001000001010011
+1110101111111010101
+0110100000000000001
+0010110001010111101
+0001111111010000011
+1010011101111010011
+0110111100010000000
+0101011010111111111
+```
+
+ e depois transformando-os em pixels brancos e pretos nos deu um Código Aztec:
+
+![Imagem Code Aztec](./2_-_Agatha_Volkomenn/noxium/aztec_code_solucao.png)
+
+Lendo o código, ele nos devolvia [oth3r.site/perpetuo_](oth3r.site/perpetuo_). E acessando esse [link](https://mega.nz/file/MYQ1TIrL#h0QgeKBjIbCBwPmK_3xc2yWwi7o7ZizSUl_QLjRhIjY) nos levou para a nossa recompensa.
+
+![Imagem Agatha Final](./2_-_Agatha_Volkomenn/perpetuo_/2%20-%20Agatha.png)
+
+Uma arte de Agatha em sua sala de rituais, segurando seu livro, feito por uma das artistas da comunidade e moderadoras do Cellbit, **Rarinha**. E com o nome da imagem sendo "*2 - Agatha*", sabíamos que finalmente tínhamos chegado no fim dessa parte, e que o enigma seria bem longo.
+
+Continua...
+
+
+
 
 
