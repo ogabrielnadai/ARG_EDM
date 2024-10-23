@@ -319,7 +319,14 @@ No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.
 
 ![Agatha varanda](./Redes/threads/ordem/agatha_sentada.jpg)
 
-A conta do [TikTok](https://www.tiktok.com/@ordemparanormal/video/7428651894035221765) de Ordem, inativa por dois anos, postou um [vídeo](./Redes/tiktok/agatha.mp4) de uma arte de Agatha com a lua acima. Durante o vídeo, várias coisas aparecem de relance. Depois de baixarmos o vídeo e analisarmos, percebemos que eram sigilos piscando rapidamente. Anotando todos eles, conseguimos:
+A conta do [TikTok](https://www.tiktok.com/@ordemparanormal/video/7428651894035221765) de Ordem, inativa por dois anos, postou um [vídeo](./Redes/tiktok/agatha.mp4) de uma arte de Agatha com a lua acima. 
+
+
+https://github.com/user-attachments/assets/fa34fd30-789d-43f2-a0f3-69936349663a
+
+
+
+Durante o vídeo, várias coisas aparecem de relance. Depois de baixarmos o vídeo e analisarmos, percebemos que eram sigilos piscando rapidamente. Anotando todos eles, conseguimos:
 E depois de dias sem algo para resolver, acessando [oth3r.site/stellae_conlineare.png](oth3r.site/stellae_conlineare.png), somos redirecionados para um link do [mega](https://mega.nz/file/oNx2DQaI#ZvJOdb77PJ8dGl_e4TNJ3wqkfMMigfpSe8T26ovHfl0) tínhamos acesso a mais uma parte do enigma. E mesmo sendo a mesma imagem do vídeo, já tínhamos a ideia de que "as estrelas deveriam se alinhar."
 
 ![stellae_conlineare.png](./2_-_Agatha_Volkomenn/stellae_conlineare.png/stellae_conlineare.png)
