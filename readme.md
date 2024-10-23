@@ -107,12 +107,12 @@ Juntando todos os stories temos um código morse novamente.
 ```
 ### Oth3r Site
 
-O resultado desse morse é [oth3r site](https://oth3r.site)
+O resultado desse morse é [oth3r site](https://http://oth3r.site)
 
 Ao acessar esse site você é direcionado para a página da steam do jogo [Steam](https://store.steampowered.com/app/1507580/).
 
 Porém ao colocar 
-**ALEA-IACTA-EST** no final do link [https://oth3r.site/ALEA-IACTA-ES](https://oth3r.site/ALEA-IACTA-ES) somos redirecionados para um link do mega:
+**ALEA-IACTA-EST** no final do link [https://http://oth3r.site/ALEA-IACTA-ES](https://http://oth3r.site/ALEA-IACTA-ES) somos redirecionados para um link do mega:
 [aleiactaest](https://mega.nz/file/RRAESJYA#X6MzrpBgvoEcnBcduMgbaC2e-cb7ETyFHw0gMN6xrmU).
 
 #### aleiactaest
@@ -133,7 +133,7 @@ a outra imagem continha uma captura de tela, de um celular, da área externa da 
 
 ![Sem Sinal Solução](./1_-_Mia_e_Verissimo/oth3rsite/aleaiactaest/sem_sinal_solucao.png)
 
-Podemos Enxergar `parad0xo5`(paradoxos) com isso podemos ir para o link novamente [https://oth3r.site/parad0xo5](https://oth3r.site/parad0xo5) somos redirecionados para um link do mega:[parad0xo5.rar](https://mega.nz/file/YZJjhLSY#1ctemb9O6FFR66Rw4xDcZTKCgK2BaGew1v3yk5WZnP4).
+Podemos Enxergar `parad0xo5`(paradoxos) com isso podemos ir para o link novamente [https://http://oth3r.site/parad0xo5](https://http://oth3r.site/parad0xo5) somos redirecionados para um link do mega:[parad0xo5.rar](https://mega.nz/file/YZJjhLSY#1ctemb9O6FFR66Rw4xDcZTKCgK2BaGew1v3yk5WZnP4).
 
 #### parad0xo5
 Recebemos o arquivo: [parad0xo5.rar](./1_-_Mia_e_Verissimo/oth3rsite/parad0xo5.rar)
@@ -177,7 +177,7 @@ Formando o Nonograma, percebemos que o formato dele se assemelhava a um código 
 
 #### vissil
 
-Acessando [oth3r.site/viisil](oth3r.site/viisil), fomos redirecionados para mais um link do mega [10.mp3](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) parte do enigma, e dessa vez um áudio. O nome do áudio era ["10"](./1_-_Mia_e_Verissimo/oth3rsite/viisil/10.mp3), tendo exatamente dois minutos de duração, com o que pareciam ser passos de alguém, tanto do lado esquerdo quanto do lado direito.
+Acessando [http://oth3r.site/viisil](http://oth3r.site/viisil), fomos redirecionados para mais um link do mega [10.mp3](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) parte do enigma, e dessa vez um áudio. O nome do áudio era ["10"](./1_-_Mia_e_Verissimo/oth3rsite/viisil/10.mp3), tendo exatamente dois minutos de duração, com o que pareciam ser passos de alguém, tanto do lado esquerdo quanto do lado direito.
 
 Olhando nas propriedades do arquivo de áudio, percebemos que, nos comentários do áudio, havia a frase `"curvas sequere"`, que traduzida, nos indicava para **"seguir as curvas"**, Ficamos presos aqui!
 
@@ -196,9 +196,9 @@ BIN:   0110111101110100011010000011001101110010001011100111001101101001011101000
 
 ```
 #### inanis
-Traduzindo o binário, chegamos em "`oth3r.site/inanis.hz`". O nosso próximo passo.
+Traduzindo o binário, chegamos em "`http://oth3r.site/inanis.hz`". O nosso próximo passo.
 
-Acessando [oth3r.site/inanis.hz](oth3r.site/inanis.hz), somos apresentados a mais um .rar [inanis.rar](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) para baixar **inanis** temos uma palavra em latim que traduzido da `"Vazio"` . Usando aquele código das patinhas que pegamos anteriormente *">see.ootab.mind<"* como senha, temos acesso aos conteúdos desse .rar onde se encontra novamente de duas imagens: uma chamada "not_past.png", com vários números e um focinho de cachorro ou lobo mordendo a seção branca do meio; e a segunda chamada "tool.png", com vários pássaros em cima de cinco postes de luz.
+Acessando [http://oth3r.site/inanis.hz](http://oth3r.site/inanis.hz), somos apresentados a mais um .rar [inanis.rar](https://mega.nz/file/5ZpkRABK#f5GB688QJdPaAC1Mj0MkJXGUDBiPC_USZf-epCZpFPY) para baixar **inanis** temos uma palavra em latim que traduzido da `"Vazio"` . Usando aquele código das patinhas que pegamos anteriormente *">see.ootab.mind<"* como senha, temos acesso aos conteúdos desse .rar onde se encontra novamente de duas imagens: uma chamada "not_past.png", com vários números e um focinho de cachorro ou lobo mordendo a seção branca do meio; e a segunda chamada "tool.png", com vários pássaros em cima de cinco postes de luz.
 
 ![not_past](./1_-_Mia_e_Verissimo/oth3rsite/inanis/not_past.png)
 
@@ -223,7 +223,7 @@ Com isso, tentamos ver se havia algo que pudesse nos ajudar com esses corvos, at
 Aqui ainda falta usar alguns passaros?
 ```
 
-Associando isso com a nossa frase, acessando [https://oth3r.site/you_are_](https://oth3r.site/you_are_), chegamos vamos para o [mega](https://mega.nz/file/kcBjjK4L#PfeD7mG6mz4tih1vitr2P4I6mGddH1EpMbIOueLXRQI) a um novo arquivo [you_are_](./1_-_Mia_e_Verissimo/oth3rsite/you_are_.rar) , e mais um com senha.
+Associando isso com a nossa frase, acessando [https://http://oth3r.site/you_are_](https://http://oth3r.site/you_are_), chegamos vamos para o [mega](https://mega.nz/file/kcBjjK4L#PfeD7mG6mz4tih1vitr2P4I6mGddH1EpMbIOueLXRQI) a um novo arquivo [you_are_](./1_-_Mia_e_Verissimo/oth3rsite/you_are_.rar) , e mais um com senha.
 
 
 Enquanto isso, na imagem dos números e o focinho, tivemos a ideia de realmente contar a quantidade dos números do meio. Por exemplo, tendo o número **4444444**, contamos que haviam sete números quatro. E isso equivalia a **74**. Fazendo todo o processo, tínhamos `"74 72 69 61 64 61 614 20 73 68 69 66 74"`.
@@ -280,7 +280,7 @@ E com isso, a comunidade se prontificou tanto a jogar como também a mapear o **
 
 #### erimia_
 
-Escaneando o QR Code, ele nos devolvia o link [oth3r.site/erimia_](oth3r.site/erimia_). erimia que do latim podemos traduzir para solidão ou "deserto espiritual". E mais uma vez, tínhamos um arquivo no [MEGA](https://mega.nz/file/bUpjRDqS#pN6VP24I4eoIfUdgX9m4-XLc1__s0YETxlXTNGs-vbY), mas agora uma imagem. E uma bem especial.
+Escaneando o QR Code, ele nos devolvia o link [http://oth3r.site/erimia_](http://oth3r.site/erimia_). erimia que do latim podemos traduzir para solidão ou "deserto espiritual". E mais uma vez, tínhamos um arquivo no [MEGA](https://mega.nz/file/bUpjRDqS#pN6VP24I4eoIfUdgX9m4-XLc1__s0YETxlXTNGs-vbY), mas agora uma imagem. E uma bem especial.
 
 
 A imagem que tínhamos era uma arte de Mia e Lupi. O curioso é que já havíamos visto essa arte antes.
@@ -320,7 +320,7 @@ No Dia 22 Tivemos uma nova atualização agora no [threads](https://www.threads.
 ![Agatha varanda](./Redes/threads/ordem/agatha_sentada.jpg)
 
 A conta do [TikTok](https://www.tiktok.com/@ordemparanormal/video/7428651894035221765) de Ordem, inativa por dois anos, postou um [vídeo](./Redes/tiktok/agatha.mp4) de uma arte de Agatha com a lua acima. Durante o vídeo, várias coisas aparecem de relance. Depois de baixarmos o vídeo e analisarmos, percebemos que eram sigilos piscando rapidamente. Anotando todos eles, conseguimos:
-E depois de dias sem algo para resolver, acessando [oth3r.site/stellae_conlineare.png](oth3r.site/stellae_conlineare.png), somos redirecionados para um link do [mega](https://mega.nz/file/oNx2DQaI#ZvJOdb77PJ8dGl_e4TNJ3wqkfMMigfpSe8T26ovHfl0) tínhamos acesso a mais uma parte do enigma. E mesmo sendo a mesma imagem do vídeo, já tínhamos a ideia de que "as estrelas deveriam se alinhar."
+E depois de dias sem algo para resolver, acessando [http://oth3r.site/stellae_conlineare.png](http://oth3r.site/stellae_conlineare.png), somos redirecionados para um link do [mega](https://mega.nz/file/oNx2DQaI#ZvJOdb77PJ8dGl_e4TNJ3wqkfMMigfpSe8T26ovHfl0) tínhamos acesso a mais uma parte do enigma. E mesmo sendo a mesma imagem do vídeo, já tínhamos a ideia de que "as estrelas deveriam se alinhar."
 
 ![stellae_conlineare.png](./2_-_Agatha_Volkomenn/stellae_conlineare.png/stellae_conlineare.png)
 
@@ -328,7 +328,7 @@ Claro, alinhar todas as estrelas manualmente seria um trabalho muito difícil. P
 
 ![barcode](./2_-_Agatha_Volkomenn/stellae_conlineare.png/barcode.png)
 
-E no final, o que foi gerado foi um código de barras. Lendo o código de barras, chegamos em "[scale.rar]". E é claro, acessando [oth3r.site/scale.rar](oth3r.site/scale.rar) nos redirecionava para o [mega](https://mega.nz/file/5YgEUK5R#kkt84oP-NkiuzJETcSiSng_J1cpCSkDaWogtJHqv1fk) e nos dava mais um arquivo.
+E no final, o que foi gerado foi um código de barras. Lendo o código de barras, chegamos em "[scale.rar]". E é claro, acessando [http://oth3r.site/scale.rar](http://oth3r.site/scale.rar) nos redirecionava para o [mega](https://mega.nz/file/5YgEUK5R#kkt84oP-NkiuzJETcSiSng_J1cpCSkDaWogtJHqv1fk) e nos dava mais um arquivo.
 
 O arquivo [.rar](./2_-_Agatha_Volkomenn/scale.rar) tinha três arquivos: um outro .rar chamado "0x"; uma imagem chamada "1÷(x-1).png"; e um .txt chamado "xo". Entretanto, havia algo a mais: uma dica nos comentários do .rar: "**nom_LLLL**" e "**1921**".
 
@@ -407,11 +407,11 @@ QR code montagem melhor visualização:
 
 ![QRCODE Montado](./2_-_Agatha_Volkomenn/scale/0x/qr_code_solucao.png)
 
-Escaneando-o, ele nos devolvia [**oth3r.site/noxium**](oth3r.site/noxium). E acessando esse link para o [mega](https://mega.nz/file/dRJE3Rab#gIRJBZBQIpkku_ZNJCc0DQ49_63R0D3YIcV722wzZdc), chegamos em mais uma parte do enigma.
+Escaneando-o, ele nos devolvia [**http://oth3r.site/noxium**](http://oth3r.site/noxium). E acessando esse link para o [mega](https://mega.nz/file/dRJE3Rab#gIRJBZBQIpkku_ZNJCc0DQ49_63R0D3YIcV722wzZdc), chegamos em mais uma parte do enigma.
 
 O link nos dava acesso a um áudio chamado "[intenso](./2_-_Agatha_Volkomenn/noxium/intenso.mp3)", com o que parecia ser uma máquina de datilografia digitando intensamente.
 
-Apesar de parecer que isso seria difícil, mais uma vez os programadores de plantão entraram em ação. Fazendo um código para transformar um dos tipos de batida em 1 e o outro em 0:
+Apesar de parecer que isso seria difícil, mais uma vez os programadores de plantão entraram em ação. Fazendo um código para transformar um dos tipos de batida em 1 e o outro em 0, conseguimos um código binário:
 ```
 0000100011100110011
 0100001011001000010
@@ -433,12 +433,17 @@ Apesar de parecer que isso seria difícil, mais uma vez os programadores de plan
 0110111100010000000
 0101011010111111111
 ```
+A visualização para transformar em binário ficava mais fácil pelo espectrograma:
+
+[Aztec PT1](./2_-_Agatha_Volkomenn/noxium/intenso_solucao_pt_1.png)
+
+[Aztec PT2](./2_-_Agatha_Volkomenn/noxium/intenso_solucao_pt_2.png)
 
  e depois transformando-os em pixels brancos e pretos nos deu um Código Aztec:
 
 ![Imagem Code Aztec](./2_-_Agatha_Volkomenn/noxium/aztec_code_solucao.png)
 
-Lendo o código, ele nos devolvia [oth3r.site/perpetuo_](oth3r.site/perpetuo_). E acessando esse [link](https://mega.nz/file/MYQ1TIrL#h0QgeKBjIbCBwPmK_3xc2yWwi7o7ZizSUl_QLjRhIjY) nos levou para a nossa recompensa.
+Lendo o código, ele nos devolvia [http://oth3r.site/perpetuo_](http://oth3r.site/perpetuo_). E acessando esse [link](https://mega.nz/file/MYQ1TIrL#h0QgeKBjIbCBwPmK_3xc2yWwi7o7ZizSUl_QLjRhIjY) nos levou para a nossa recompensa.
 
 ![Imagem Agatha Final](./2_-_Agatha_Volkomenn/perpetuo_/2%20-%20Agatha.png)
 
@@ -450,17 +455,17 @@ Continua...
 
 ## Links oth3r site
 ### Mia e Lupi
-* [alea-iacta-est](oth3r.site/alea-iacta-est)
-* [parad0xo5](oth3r.site/parad0xo5)
-* [viisil](oth3r.site/viisil)
-* [you_are_](oth3r.site/you_are_)
-* [inanis.hz](oth3r.site/inanis.hz)
-* [erimia_](oth3r.site/erimia_)
+* [alea-iacta-est](http://oth3r.site/alea-iacta-est)
+* [parad0xo5](http://oth3r.site/parad0xo5)
+* [viisil](http://oth3r.site/viisil)
+* [you_are_](http://oth3r.site/you_are_)
+* [inanis.hz](http://oth3r.site/inanis.hz)
+* [erimia_](http://oth3r.site/erimia_)
 
 ### Agatha
-* [stellae_conlineare.png](oth3r.site/stellae_conlineare.png)
-* [noxium](oth3r.site/noxium)
-* [perpetuo](oth3r.site/perpetuo_)
+* [stellae_conlineare.png](http://oth3r.site/stellae_conlineare.png)
+* [noxium](http://oth3r.site/noxium)
+* [perpetuo_](http://oth3r.site/perpetuo_)
 
 
 ## Redes Sociais
@@ -524,3 +529,5 @@ O título da imagem, ''1 - Mia e Lupi''
 
 # Coisas sobre foto da Aghata
 Coisas que temos para usar nesse puzzle da foto da Agatha:
+
+![Soluções](./2_-_Agatha_Volkomenn/perpetuo_/perpetuo_solucao_2.png)
