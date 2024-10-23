@@ -324,7 +324,7 @@ E depois de dias sem algo para resolver, acessando [oth3r.site/stellae_conlinear
 
 ![stellae_conlineare.png](./2_-_Agatha_Volkomenn/stellae_conlineare.png/stellae_conlineare.png)
 
-Claro, alinhar todas as estrelas manualmente seria um trabalho muito difícil. Por isso, um usuário da comunidade fez um código em Python que fazia o alinhamento automático para gerar uma imagem. 
+Claro, alinhar todas as estrelas manualmente seria um trabalho muito difícil. Por isso, um usuário da comunidade fez um [código em Python](./2_-_Agatha_Volkomenn/stellae_conlineare.png/codigo.py) que fazia o alinhamento automático para gerar uma imagem. 
 
 ![barcode](./2_-_Agatha_Volkomenn/stellae_conlineare.png/barcode.png)
 
@@ -435,9 +435,9 @@ Apesar de parecer que isso seria difícil, mais uma vez os programadores de plan
 ```
 A visualização para transformar em binário ficava mais fácil pelo espectrograma:
 
-[Aztec PT1](./2_-_Agatha_Volkomenn/noxium/intenso_solucao_pt_1.png)
+![Aztec PT1](./2_-_Agatha_Volkomenn/noxium/intenso_solucao_pt_1.png)
 
-[Aztec PT2](./2_-_Agatha_Volkomenn/noxium/intenso_solucao_pt_2.png)
+![Aztec PT2](./2_-_Agatha_Volkomenn/noxium/intenso_solucao_pt_2.png)
 
  e depois transformando-os em pixels brancos e pretos nos deu um Código Aztec:
 
