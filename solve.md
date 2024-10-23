@@ -12,6 +12,7 @@
 ### Agatha
 * [stellae_conlineare.png](oth3r.site/stellae_conlineare.png)
 * [noxium](oth3r.site/noxium)
+* [perpetuo](oth3r.site/perpetuo_)
 
 
 ## Redes Sociais
@@ -27,16 +28,16 @@
 * [TikTok](https://www.tiktok.com/@ordemparanormal)
 * [Threads](https://www.threads.net/@ordemparanormal)
 
-# Duma
+## Duma
 * [Twitter](https://x.com/dumativa)
 
-# Jogo
+## Jogo
 * [Steam](https://store.steampowered.com/app/1507580/)
 * [Nuuvem](https://www.nuuvem.com/lp/pt/enigma-do-medo/)
 
-## Traduções
+# Traduções
 
-### Mia e Lupi
+## Mia e Lupi
 VIS UNITA FORTIOR(Latim) -> UNIDOS VENCEREMOS
 
 ALEA IACTA EST(Latim) -> O DADO FOI LANÇADO (A SORTE FOI LANÇADA)
@@ -58,9 +59,11 @@ Erimia_(Grego) -> Solidão
 NON MEMINIT(Latim) -> Ele não se lembra
 
 
-### Agatha
+## Agatha
 
-Stellae conlineare -> As estrelas se alinham
+Stellae conlineare(Latim) -> As estrelas se alinham
+
+Noxium(latim) -> Nocivo
 
 # Coisas sobre a Foto da Mia e Lupi
 Coisas que temos para usar nesse puzzle da foto da Mia:
@@ -71,6 +74,5 @@ A palavra ''N_O_N meminit'', que significa ''ele não se lembra''
 O título da imagem, ''1 - Mia e Lupi''
 ''Perímetro'' Perímetro é a medida do contorno de uma figura geométrica plana, ou seja, a soma de todos os seus lados
 
-## Coisas sobre foto da Aghata
+# Coisas sobre foto da Aghata
 Coisas que temos para usar nesse puzzle da foto da Agatha:
-
