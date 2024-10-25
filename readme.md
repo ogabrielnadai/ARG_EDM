@@ -470,7 +470,42 @@ Lendo o código, ele nos devolvia [https://oth3r.site/perpetuo_](https://oth3r.s
 
 Uma arte de Agatha em sua sala de rituais, segurando seu livro, feito por uma das artistas da comunidade e moderadoras do Cellbit, **Rarinha**. E com o nome da imagem sendo "*2 - Agatha*", sabíamos que finalmente tínhamos chegado no fim dessa parte, e que o enigma seria bem longo.
 
-Continua...
+Não era. Depois de passarmos o dia inteiro sem fazer nada, esperando algo sair... sendo que o que tínhamos que resolver estava na nossa frente.
+
+E na calada da noite, às 22:14, um usuário da comunidade chegou com a luz no fim do túnel: um código de barras gerado após pegar os números de referência das cores branco e preto no livro de Agatha (exemplo: se havia um 4 manchado pela cor preta, desenharíamos 4 barras pretas; se havia um 2 não manchado, desenharíamos 2 barras brancas).
+
+![Agatha livro](./2_-_Agatha_Volkomenn/perpetuo_/perpetuo_solucao_2.png)
+
+```
+    'b4 w2 b2 w4 b2 w8',
+    'b2 w8       b4 w2',
+    'b2 w4 b2 w8 b2 w4 b4 w2',
+    'b2 w4 b4 w4 b6 w2',
+    'b8 w4 b2 w2 b2 w4',
+    'b2 w4 b2 w2 b4 w8',
+    'b8 w2 b2 w4 b2 w4',
+    'b8 w2 b2 w2 b6 w2',
+    'b4 w6 b6 w2 b2 w2 b4'
+```
+![Barcode](./2_-_Agatha_Volkomenn/perpetuo_/barcode.png)
+
+Lendo o código de barras, ele nos devolvia "id.wav". E acessando "[**oth3r.site/id.wav**](https://oth3r.site/id.wav)" nos levou para [**link**](https://mega.nz/file/1VYEHaab#f628lquzKJE8Np9CeNgvGD4s9yl75vDiGCvwMPed4V4) e a continuação do enigma.
+O arquivo que descobrimos se chamava "10.rar", que apesar de parecer ser leve, com apenas 82 MB, continha um áudio de mais de **1 GB**. Um áudio de **04 horas e 13 minutos**. **0413**.
+
+E esse áudio foi uma dor de cabeça para a comunidade inteira, fazendo até com que 100 pessoas se reunissem em um canal de áudio para tentar resolvê-lo. Como se tratava de um áudio de *4 horas*, pensamos que ele precisava ser acelerado, talvez 10 vezes de acordo com o nome do .rar, ou até mesmo *413* vezes. Procuramos por diversas formas de descriptografia com áudio, indo de DTMF (tons de telefone), frequência, sobreposição de áudio, desmodularização... sendo esse último um dos que mais chegou perto de ser algo, resultando em um áudio que se assemelhava a código binário, mas nada. Passamos pouco mais de 12 horas tentando resolver esse áudio sem conseguir achar nada.
+
+Um usuário da comunidade, sendo um dos principais que estava mexendo no áudio, decidiu mexer nas frequências do áudio e fazer um processo conhecido como a Transformada de Fourier. Sendo assim, ele pegou as três frequências presentes no áudio, especificamente de cada pedaço de 0.5 segundos do áudio; depois, ele pegou o valor mínimo e máximo de cada um dos três grupos de frequência; interpolou a menor frequência de cada grupo para 0, e a maior para 255; com isso, ele começou a construir imagens com todas as resoluções possíveis, conforme o número de tríplices de valores que as imagens tinham. A princípio, a primeira imagem achada foi uma de resolução 94x94, que parecia ter algo, mas estava desalinhada.
+![Solucao id wav](./2_-_Agatha_Volkomenn/10/id_wav_explicacao.png)
+
+![Profecia 94x94](./2_-_Agatha_Volkomenn/10/peak_a_profecia.png)
+
+Contudo, a segunda imagem achada, de resolução **184x165**, era o verdadeiro prêmio.
+
+![A profecia 184x165](./2_-_Agatha_Volkomenn/10/frequency_image_184x165_RGB.png)
+
+A cor do fundo da imagem talvez não estivesse certa, pois achamos uma versão dela pela ordem contrária de cores (*BGR* em vez de *RGB*), porém, o que era nítido estava no centro: um olho verde, com várias vezes a frase "`A PROFECIA`" espalhada.
+
+E por agora, é aqui onde estamos.
 
 # Anotações
 
@@ -487,6 +522,7 @@ Continua...
 * [stellae_conlineare.png](https://oth3r.site/stellae_conlineare.png)
 * [noxium](https://oth3r.site/noxium)
 * [perpetuo_](https://oth3r.site/perpetuo_)
+* [id.wav](https://oth3r.site/id.wav)
 
 
 ## Redes Sociais
@@ -550,5 +586,6 @@ O título da imagem, ''1 - Mia e Lupi''
 
 # Coisas sobre foto da Aghata
 Coisas que temos para usar nesse puzzle da foto da Agatha:
+A palabra A Profecia.
 
-![Soluções](./2_-_Agatha_Volkomenn/perpetuo_/perpetuo_solucao_2.png)
+O Olho Verde
