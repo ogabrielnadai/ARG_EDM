@@ -533,10 +533,19 @@ E por agora, é aqui onde estamos.
 
 ### Ordem
 * [Twitter](https://www.nuuvem.com/lp/pt/enigma-do-medo/)
-* [Blue Sky](https://bsky.app/profile/ordemparanormal.com)
+* [Blue Sky](https://bsky.app/profile/ordemparanormal.com.br)
 * [Instagram](https://www.instagram.com/ordemparanormal/)
 * [TikTok](https://www.tiktok.com/@ordemparanormal)
 * [Threads](https://www.threads.net/@ordemparanormal)
+* [Site Ordem](https://ordemparanormal.com.br/)
+
+
+#### Secundárias
+* [Threads Updates](https://www.threads.net/@ordemupdates)
+* [Threads EN](https://www.threads.net/@ordemupdatesen)
+* [Blue sky Updates](https://bsky.app/profile/ordemupdates.ordemparanormal.com.br)
+* [Blue sky Update EN](https://bsky.app/profile/ordemupdatesen.ordemparanormal.com.br)
+
 
 ## Duma
 * [Twitter](https://x.com/dumativa)
@@ -545,6 +554,13 @@ E por agora, é aqui onde estamos.
 * [Steam](https://store.steampowered.com/app/1507580/)
 * [Nuuvem](https://www.nuuvem.com/lp/pt/enigma-do-medo/)
 
+## Cellbit
+* [Instagram](https://www.instagram.com/cellbitos/)
+* [Twitch](https://www.twitch.tv/cellbit)
+
+### Antigas
+* [Twitter](https://x.com/cellbitos)
+* [Youtube](https://www.youtube.com/cellbitos)
 # Traduções
 
 ## Mia e Lupi
