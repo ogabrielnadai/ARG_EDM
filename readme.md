@@ -575,17 +575,24 @@ Stellae conlineare(Latim) -> As estrelas se alinham
 
 Noxium(latim) -> Nocivo
 
+# Coisas a Resolver/Entender
+id.wav (Qual era a dica?)
+10.rar (Qual era a dica?) (binário?)
+Os pontos nas imagens da Agatha/Mia (levam a algum lugar?)
+1/(x-1) - Dividido? (seria 1/2), (Não ir por binário porque 1 é irrelevante)
+
 # Coisas sobre a Foto da Mia e Lupi
 Coisas que temos para usar nesse puzzle da foto da Mia:
 
 A palavra Erimia, ερημιά, que é o url (erimia_) do site (significada deserto em grego. a solitude, an uninhabited region, a waste.)
 O quebra cabeça, que ainda não tem um significado
-A palavra ''N_O_N meminit'', que significa ''ele não se lembra''
-O título da imagem, ''1 - Mia e Lupi''
+A palavra ''N_O_N meminit'', que significa ''ele não se lembra'' (Uma extensão invertido meminit.non (nanograma))
+O título da imagem, ''1 - Mia e Lupi'' (so indica a sequência dos enigmas e o final de cada um)
 ''Perímetro'' Perímetro é a medida do contorno de uma figura geométrica plana, ou seja, a soma de todos os seus lados
+O Quebra cabeça precisamos encontrar, é um extra? ou ainda falta mais peças para completar.
 
-# Coisas sobre foto da Aghata
-Coisas que temos para usar nesse puzzle da foto da Agatha:
-A palabra A Profecia.
-
-O Olho Verde
+# Coisas sobre foto da Agatha
+O título da imagem, ''2 - Agatha.png'' (so indica a sequência dos enigmas e o final de cada um)
+Os sigilos (somente visual)
+"A Profecia."
+"O Olho Verde."
