@@ -457,6 +457,8 @@ https://github.com/user-attachments/assets/3db38a81-60fc-4093-8b9e-0d292251caf4
 Durante o vídeo, várias coisas aparecem de relance. Depois de baixarmos o vídeo e analisarmos, percebemos que eram 
 sigilos piscando rapidamente. Anotando todos eles, conseguimos:
 E depois de dias sem algo para resolver, acessando 
+
+### stellae_conlineare.png
 [oth3r.site/stellae_conlineare.png](oth3r.site/stellae_conlineare.png), somos redirecionados para um link do 
 [mega](https://mega.nz/file/oNx2DQaI#ZvJOdb77PJ8dGl_e4TNJ3wqkfMMigfpSe8T26ovHfl0) tínhamos acesso a mais uma parte do 
 enigma. E mesmo sendo a mesma imagem do vídeo, já tínhamos a ideia de que "as estrelas deveriam se alinhar."
@@ -469,6 +471,7 @@ gerar uma imagem.
 
 ![barcode](./2_-_Agatha_Volkomenn/stellae_conlineare.png/barcode.png)
 
+### scale.rar
 E no final, o que foi gerado foi um código de barras. Lendo o código de barras, chegamos em "[scale.rar]". E é claro, 
 acessando [https://oth3r.site/scale.rar](https://oth3r.site/scale.rar) nos redirecionava para o 
 [Mega](https://mega.nz/file/5YgEUK5R#kkt84oP-NkiuzJETcSiSng_J1cpCSkDaWogtJHqv1fk) e nos dava mais um arquivo.
@@ -583,6 +586,7 @@ QR code montagem melhor visualização:
 
 ![QRCODE Montado](./2_-_Agatha_Volkomenn/scale/0x/qr_code_solucao.png)
 
+### noxium
 Escaneando-o, ele nos devolvia [**https://oth3r.site/noxium**](https://oth3r.site/noxium). E acessando esse link para o
  [mega](https://mega.nz/file/dRJE3Rab#gIRJBZBQIpkku_ZNJCc0DQ49_63R0D3YIcV722wzZdc), chegamos em mais uma parte do enigma.
 
@@ -627,6 +631,8 @@ A visualização para transformar em binário ficava mais fácil pelo espectrogr
 
 ![Imagem Code Aztec](./2_-_Agatha_Volkomenn/noxium/aztec_code_solucao.png)
 
+
+### perpetuo_
 Lendo o código, ele nos devolvia [https://oth3r.site/perpetuo_](https://oth3r.site/perpetuo_). E acessando esse [link](https://mega.nz/file/MYQ1TIrL#h0QgeKBjIbCBwPmK_3xc2yWwi7o7ZizSUl_QLjRhIjY) nos levou para a nossa recompensa.
 
 ![Imagem Agatha Final](./2_-_Agatha_Volkomenn/perpetuo_/2%20-%20Agatha.png)
@@ -657,6 +663,7 @@ E na calada da noite, às 22:14, um usuário da comunidade chegou com a luz no f
 ```
 ![Barcode](./2_-_Agatha_Volkomenn/perpetuo_/barcode.png)
 
+### id.wav
 Lendo o código de barras, ele nos devolvia "id.wav". E acessando "[**oth3r.site/id.wav**](https://oth3r.site/id.wav)" 
 nos levou para [**link**](https://mega.nz/file/1VYEHaab#f628lquzKJE8Np9CeNgvGD4s9yl75vDiGCvwMPed4V4) e a continuação do enigma.
 O arquivo que descobrimos se chamava "10.rar", que apesar de parecer ser leve, com apenas 82 MB, continha um áudio 
@@ -690,13 +697,14 @@ um olho verde, com várias vezes a frase "`A PROFECIA`" espalhada.
 
 
 ## Samuel Norte
-
 Ás 13:16 de 26/10, a conta de Ordem Paranormal no [Twitter](https://x.com/OrdemParanormal/status/1850209779198591183) 
 fez uma nova postagem, 
 com quatro imagens diferentes, e no post, o site [**d4ylightd3mon.com.br**](https://d4ylightd3mon.com.br/). 
 Os enigmas de [**Samuel Norte**](https://ordemparanormal.fandom.com/wiki/Samuel_Norte).
 
 ![Postagem 2 Completa](./Redes/Twitter/ordem/postage2_completa.png)
+
+### home
 
 Acessando esse site, nós tínhamos uma página básica de HTML chamada "**O Jornal Diário**", 
 com seções simples de notícias, algumas delas fazendo referência a eventos recentes no
@@ -733,7 +741,7 @@ QUATRO ZERO QUATRO e traduzidos para QUATRO ZERO QUATRO, ou Erro 404.
 Entretanto, o que precisávamos procurar estava nas notícias. E especificamente, a 
 terceira notícia era a única que continha a palavra ordem, e ela podia ser clicada. 
 E [**clicando nela**](https://d4ylightd3mon.com.br/login)...
-
+### login
 ![grid login](./3_-_Samuel_norte/d4ylightd3mon/login/grid.png)
 
 Temos uma [musiquinha](./3_-_Samuel_norte/d4ylightd3mon/login/4mbi3nt.mp3) de fundo.
@@ -959,22 +967,39 @@ Com isso, um dos usuários da comunidade fez um código que identificava esses p
 com isso, tínhamos uma lista da ordem das teclas que precisávamos inserir como senha para cada imagem. Inserindo todas 
 as sequências das doze imagens, cada uma nos fazia baixar 12 arquivos .dat com nomes diferentes.
 
-Baixando todos os arquivos .dat, tínhamos uma série de palavras, com algumas letras destacadas: "**[A]nomalia**", "**b[R]uma**", "**cr[I]ptografia**", "**desapareciimen[T]o**", "**estran[H]o**", "**for[M]a**", "**ocult[O]**", "**paradig[M]a**", "**par[A]normal**", "**ru[N]a**", "**s[I]na**" e "**transform[A]r**". Destacando essas letras e ordenando elas, tínhamos a palavra "ARITHMOMANIA", referente a Aritmomania, um dos tipos de **TOC** (transtorno obsessivo-compulsivo) em que se há forte necessidade de contar as suas ações ou seus objetos ao redor.
+Baixando todos os arquivos .dat, tínhamos uma série de palavras, com algumas letras destacadas: "**[A]nomalia**", 
+"**b[R]uma**", "**cr[I]ptografia**", "**desapareciimen[T]o**", "**estran[H]o**", "**for[M]a**", "**ocult[O]**", 
+"**paradig[M]a**", "**par[A]normal**", "**ru[N]a**", "**s[I]na**" e "**transform[A]r**". Destacando essas letras e 
+ordenando elas, tínhamos a palavra "ARITHMOMANIA", referente a Aritmomania, um dos tipos de **TOC** (transtorno 
+obsessivo-compulsivo) em que se há forte necessidade de contar as suas ações ou seus objetos ao redor.
 
-Abrindo os nossos arquivos .dat com o bloco de notas, percebemos que eles tinham sequências de palavras. Como tínhamos a referência da Aritmomania, pensamos em fazer primeiro a contagem de letras de cada palavra, nos levando a fazer uma lista de números para cada imagem. Porém, com as informações que tínhamos, essas listas não faziam sentido algum com o que precisávamos procurar. Pensamos até em resgatar a parte de um enigma feito em anos passados, percebendo que o formato de cima dos números que encontrávamos se assemelhava aos pontos e riscos de Código Morse. Mas o detalhe que precisávamos focar era na contagem do arquivo.
+Abrindo os nossos arquivos .dat com o bloco de notas, percebemos que eles tinham sequências de palavras. Como tínhamos 
+a referência da Aritmomania, pensamos em fazer primeiro a contagem de letras de cada palavra, nos levando a fazer uma 
+lista de números para cada imagem. Porém, com as informações que tínhamos, essas listas não faziam sentido algum com o 
+que precisávamos procurar. Pensamos até em resgatar a parte de um enigma feito em anos passados, percebendo que o 
+formato de cima dos números que encontrávamos se assemelhava aos pontos e riscos de Código Morse. Mas o detalhe que 
+precisávamos focar era na contagem do arquivo.
 
 ![Todos os Arquivos dat](./3_-_Samuel_norte/cogito_ergo_sum/U/dat/todos_os_arquivos_dat.png)
 
-E falando em contagem, pensamos em checar o tamanho de cada arquivo que tínhamos. Já que esses .dat eram apenas uma lista de palavras, o propósito dessas listas comporem os arquivos provavelmente era por causa do tamanho deles. Por exemplo, o arquivo Anomalia possui a seguinte sequência de palavras: "viela declive soluçar torrado falange deferir tedioso básico pagar". Esses caracteres compõem o arquivo e fazem ele pesar exatamente 68 bytes. O que tínhamos que fazer era separar os tamanhos dos arquivos, tendo assim a sequência de números "**68 68 58 112 114 111 112 48 115 49 116 111**".
+E falando em contagem, pensamos em checar o tamanho de cada arquivo que tínhamos. Já que esses .dat eram apenas uma 
+lista de palavras, o propósito dessas listas comporem os arquivos provavelmente era por causa do tamanho deles. Por 
+exemplo, o arquivo Anomalia possui a seguinte sequência de palavras: "viela declive soluçar torrado falange deferir 
+tedioso básico pagar". Esses caracteres compõem o arquivo e fazem ele pesar exatamente 68 bytes. O que tínhamos que 
+fazer era separar os tamanhos dos arquivos, tendo assim a sequência de números 
+"**68 68 58 112 114 111 112 48 115 49 116 111**".
 
 Decodificando esses números com a tabela ASCII:
 ![solucao dat 1](./3_-_Samuel_norte/cogito_ergo_sum/U/dat/solucao_dat_1.png)
 
 **DD**, significando D4ylight D3mon, e o próximo link a acessar: "**prop0s1to**".
 
-Acessando [d4ylightd3mon.com.br/prop0s1to](https://d4ylightd3mon.com.br/prop0s1to), fomos redirecionados a uma espécie de labirinto, onde controlávamos a letra I por meio das setas do teclado. Ao iniciar a página, a frase "**Estou me sentindo afoito..**." aparecia.
+Acessando [d4ylightd3mon.com.br/prop0s1to](https://d4ylightd3mon.com.br/prop0s1to), fomos redirecionados a uma espécie 
+de labirinto, onde controlávamos a letra I por meio das setas do teclado. Ao iniciar a página, a frase 
+"**Estou me sentindo afoito..**." aparecia.
 
-Vimos que havia um portão a ser aberto com uma senha, e por isso começamos a andar pelo labirinto em busca dela. Com isso, fomos capazes de encontrar outras letras espalhadas por lá, cada uma delas falando uma frase:
+Vimos que havia um portão a ser aberto com uma senha, e por isso começamos a andar pelo labirinto em busca dela. Com 
+isso, fomos capazes de encontrar outras letras espalhadas por lá, cada uma delas falando uma frase:
 
 ![Letra J](/3_-_Samuel_norte/prop0s1to/letra_j.png)
 ![Letra S](/3_-_Samuel_norte/prop0s1to/letra_s.png)
@@ -983,11 +1008,13 @@ Vimos que havia um portão a ser aberto com uma senha, e por isso começamos a a
 ![Letra t](/3_-_Samuel_norte/prop0s1to/letra_t.png)
 ![Letra z](/3_-_Samuel_norte/prop0s1to/letra_z.png)
 
-Com isso, tínhamos sete frases, uma para cada letra. E falando nessas letras, percebendo quais letras tínhamos, não dava para não notar que todas elas formavam o conjunto de peças usadas no jogo Tetris.
+Com isso, tínhamos sete frases, uma para cada letra. E falando nessas letras, percebendo quais letras tínhamos, não 
+dava para não notar que todas elas formavam o conjunto de peças usadas no jogo Tetris.
 
 ![Peças de tetris](./3_-_Samuel_norte/prop0s1to/pecas_tetris.png)
 
-A princípio, tentamos mapear o labirinto inteiro para ver se tínhamos alguma coisa especial pelo caminho, mas não encontramos nada. O que tínhamos que fazer tinha relação com as frases que cada letra nos dava:
+A princípio, tentamos mapear o labirinto inteiro para ver se tínhamos alguma coisa especial pelo caminho, mas não 
+encontramos nada. O que tínhamos que fazer tinha relação com as frases que cada letra nos dava:
 
 * I - Estou me sentindo afoito...
 * L - Se te falarem onde os outros estão me avisa
@@ -997,21 +1024,32 @@ A princípio, tentamos mapear o labirinto inteiro para ver se tínhamos alguma c
 * J - Onde todos estão?
 * S - Onde foram as outras?
 
-Com exceção de J e S, cada frase nos referenciava um número. Ordenando eles em ordem alfabética, tínhamos a sequência "87825". O problema era "onde encaixar essa sequência". Ela não era a senha que precisávamos.
+Com exceção de J e S, cada frase nos referenciava um número. Ordenando eles em ordem alfabética, tínhamos a sequência 
+"87825". O problema era "onde encaixar essa sequência". Ela não era a senha que precisávamos.
 
 Mas era a sequência necessária para achar algo a mais.
 
-E não deixando de lado o J e o S, que apareciam juntos, um do lado do outro, como a temática dessa parte do enigma envolvia Tetris, decidimos testar se havia algo a ver com esses números em um site de Tetris que a comunidade já estava bem acostumada: o "JStris". Usando o número que tínhamos como um link de um mapa no [Jstris](https://jstris.jezevec10.com/play/map/87825):
+E não deixando de lado o J e o S, que apareciam juntos, um do lado do outro, como a temática dessa parte do enigma 
+envolvia Tetris, decidimos testar se havia algo a ver com esses números em um site de Tetris que a comunidade já 
+estava bem acostumada: o "JStris". Usando o número que tínhamos como um link de um mapa no 
+[Jstris](https://jstris.jezevec10.com/play/map/87825):
 
 ![Map do site](./3_-_Samuel_norte/prop0s1to/map_js_tetris.png)
 
-Mais uma vez ele. **v1s_un1ta_f0rt10r**. O nome do mapa, "iter", significava "jornada" em latim, o que significa que ele era realmente um mapa para usarmos do que um mapa para jogarmos. E na descrição, tínhamos uma sequência de números positivos e negativos: "**+2 -8 1 4 1 -9 14**".
+Mais uma vez ele. **v1s_un1ta_f0rt10r**. O nome do mapa, "iter", significava "jornada" em latim, o que significa que 
+ele era realmente um mapa para usarmos do que um mapa para jogarmos. E na descrição, tínhamos uma sequência de números 
+positivos e negativos: "**+2 -8 1 4 1 -9 14**".
 
-Depois de brincarmos um pouquinho com o mapa, decidimos então, do ponto central do labirinto, seguir as direções que o mapa do Jstris nos dava. Depois de seguir reto, virar à direita, depois virar à esquerda, dar outra volta, seguir outro caminho reto...
+Depois de brincarmos um pouquinho com o mapa, decidimos então, do ponto central do labirinto, seguir as direções que o 
+mapa do Jstris nos dava. Depois de seguir reto, virar à direita, depois virar à esquerda, dar outra volta, seguir 
+outro caminho reto...
 
 ![Mapa Solucao 1 ](./3_-_Samuel_norte/prop0s1to/map_solucao_1.png)
 
-Uma sala com letras restantes do alfabeto (exceto as letras **HPZ**), e o que parecia ser um código no meio com algumas das letras. O texto codificado que tínhamos era "**BMRPHWA**", e o que nos restava usar era a sequência de números da descrição do mapa no Jstris. Usando a sequência como uma ordem de Shift Cipher (a primeira letra muda duas letras para frente, a segunda letra muda 8 letras para trás), tínhamos a palavra "*DESTINO*".
+Uma sala com letras restantes do alfabeto (exceto as letras **HPZ**), e o que parecia ser um código no meio com 
+algumas das letras. O texto codificado que tínhamos era "**BMRPHWA**", e o que nos restava usar era a sequência de 
+números da descrição do mapa no Jstris. Usando a sequência como uma ordem de Shift Cipher (a primeira letra muda duas 
+letras para frente, a segunda letra muda 8 letras para trás), tínhamos a palavra "*DESTINO*".
 
 ![Final caminho tetris](./3_-_Samuel_norte/prop0s1to/end_game.png)
 
@@ -1021,35 +1059,58 @@ E inserindo a palavra DESTINO como senha:
 
 A peça I finalmente cai, terminando de formar o nosso próximo passo: "**42.log**".
 
-Acessando [**https://d4ylightd3mon.com.br/42.log**](https://d4ylightd3mon.com.br/42.log), um terminal começa a ser executado na nossa frente. 
+Acessando [**https://d4ylightd3mon.com.br/42.log**](https://d4ylightd3mon.com.br/42.log), um terminal começa a ser 
+executado na nossa frente. 
 
 ![42 log](./3_-_Samuel_norte/prop0s1to/42.log.png)
 
-Ele segue uma conversa de Samuel como **d4ylight_d3m0n** e outra pessoa, nomeada apenas de **g_matrix**, falando sobre a investigação que ambos faziam no &¨%~*!@#), e que Samuel havia encontrado uma imagem codificada, redirecionada pelo [link](https://mega.nz/file/IBIgWKCB#srapJrbHi9akr5vF9yEjQvJe7huoj6y5DYPrQcGXYZg) [**oth3r.site/sinistro.png**](https://oth3r.site/sinistro.png).  Tendo como base de que estamos falando de Enigma do Medo, concluímos que Samuel estava falando sobre sua investigação no Perímetro, o lugar que não existe. Porém, o que ele havia achado era o mais importante.
+Ele segue uma conversa de Samuel como **d4ylight_d3m0n** e outra pessoa, nomeada apenas de **g_matrix**, falando sobre 
+a investigação que ambos faziam no &¨%~*!@#), e que Samuel havia encontrado uma imagem codificada, redirecionada pelo 
+[link](https://mega.nz/file/IBIgWKCB#srapJrbHi9akr5vF9yEjQvJe7huoj6y5DYPrQcGXYZg) 
+[**oth3r.site/sinistro.png**](https://oth3r.site/sinistro.png).  Tendo como base de que estamos falando de Enigma do 
+Medo, concluímos que Samuel estava falando sobre sua investigação no Perímetro, o lugar que não existe. Porém, o que 
+ele havia achado era o mais importante.
 
 ![Sinistro.png](./3_-_Samuel_norte/sinistro/sinistro.png)
 
-A imagem parecia ser de algum lugar, à frente de um portão com um poste de iluminação, mas o centro da imagem estava todo distorcido. Com base na conversa de Samuel e g_matrix, tínhamos que achar algum tipo de criptografia com imagem, que tinha algo de relação a ser o resultado com mais pesquisas. Ou seria fácil ou difícil achar a ferramenta usada, pois Samuel havia dito que nenhum de seus programas tinha conseguido decodificar essa imagem.
+A imagem parecia ser de algum lugar, à frente de um portão com um poste de iluminação, mas o centro da imagem estava 
+todo distorcido. Com base na conversa de Samuel e g_matrix, tínhamos que achar algum tipo de criptografia com imagem, 
+que tinha algo de relação a ser o resultado com mais pesquisas. Ou seria fácil ou difícil achar a ferramenta usada, 
+pois Samuel havia dito que nenhum de seus programas tinha conseguido decodificar essa imagem.
 
-Ficamos um tempo preso nessa imagem, tentando achar algum jeito de reverter a distorção com editores de imagem como PhotoShop, GIMP, mas nenhum surtia efeito. Foi então que pensamos que não havia jeito nenhum desses editores poder reverter o processo, e então partimos para procurar ferramentas para criptografia visual. Afinal, pode existir de tudo na Internet. E realmente existe.
+Ficamos um tempo preso nessa imagem, tentando achar algum jeito de reverter a distorção com editores de imagem como 
+PhotoShop, GIMP, mas nenhum surtia efeito. Foi então que pensamos que não havia jeito nenhum desses editores poder 
+reverter o processo, e então partimos para procurar ferramentas para criptografia visual. Afinal, pode existir de 
+tudo na Internet. E realmente existe.
 
-Relembrando tempos antigos para algumas pessoas, um usuário da comunidade usou um software de decodificação de vídeo e imagem chamado [CryptImage](https://github.com/Potomac/cryptimage). Esse software é capaz de reproduzir codificações antigas de sistemas de TV analógicas, como o "**discret 11**", o "Nagravision Syster" e o que precisávamos para a nossa imagem: o "VideoCrypt". Basicamente, esse software pega uma linha da imagem, a corta em um ponto e troca a posição das linhas da imagem. Fazendo o processo reverso, teríamos nossa imagem normal. E fazendo isso, tínhamos uma imagem melhorada e uma resposta na nossa frente: "**inf1nid4d3_**".
+Relembrando tempos antigos para algumas pessoas, um usuário da comunidade usou um software de decodificação de vídeo e 
+imagem chamado [CryptImage](https://github.com/Potomac/cryptimage). Esse software é capaz de reproduzir codificações 
+antigas de sistemas de TV analógicas, como o "**discret 11**", o "Nagravision Syster" e o que precisávamos para a 
+nossa imagem: o "VideoCrypt". Basicamente, esse software pega uma linha da imagem, a corta em um ponto e troca a 
+posição das linhas da imagem. Fazendo o processo reverso, teríamos nossa imagem normal. E fazendo isso, tínhamos uma 
+imagem melhorada e uma resposta na nossa frente: "**inf1nid4d3_**".
 
 ![Sinistro.png solucao](./3_-_Samuel_norte/sinistro/output_images/aligned_image.png)
 
-Seguindo o padrão, respostas com _ no final eram a parte final dos enigmas. Acessando [http://oth3r.site/inf1nid4d3_](http://oth3r.site/inf1nid4d3_) nos redirecionava para a nossa recompensa: a foto "3 - Samuel", dessa vez, feito pelo artista principal das Graphic Novels de Ordem Paranormal, Akíla.
+Seguindo o padrão, respostas com _ no final eram a parte final dos enigmas. Acessando 
+[http://oth3r.site/inf1nid4d3_](http://oth3r.site/inf1nid4d3_) nos redirecionava para a nossa recompensa: a foto 
+"3 - Samuel", dessa vez, feito pelo artista principal das Graphic Novels de Ordem Paranormal, Akíla.
 
 ![3 - Samuel](./3_-_Samuel_norte/inf1nid4d3_/3%20-%20Samuel.png)
-Na imagem de Samuel, seu notebook mostrava a palavra FAMÍLIA e uma barra de carregamento em 30%, provavelmente significando que havíamos chegado em 30% do ARG. Ou seja, o enigma seria bem longo mesmo.
+Na imagem de Samuel, seu notebook mostrava a palavra FAMÍLIA e uma barra de carregamento em 30%, provavelmente 
+significando que havíamos chegado em 30% do ARG. Ou seja, o enigma seria bem longo mesmo.
 
 Porém, os mistérios ainda não haviam acabado.
 
 • A Revelação
-Usando [**inf1nid4d3_**](https://d4ylightd3mon.com.br/inf1nid4d3_) como link, mas agora, no site **d4ylightd3mon.com.br**, nos mostrava isso.
+Usando [**inf1nid4d3_**](https://d4ylightd3mon.com.br/inf1nid4d3_) como link, mas agora, no site 
+**d4ylightd3mon.com.br**, nos mostrava isso.
 
 ![conversa samuel tgofiw](./3_-_Samuel_norte/inf1nid4d3_/conversa_samuel_tgofiw.png)
 
-Samuel havia achado cinco fragmentos do que pareciam ser documentos importantes para a investigação, e decidiu mostrar para g_matrix. O que ambos não esperavam é que um certo usuário iria dar as caras. "t.g.o.f.i.w". The God of Fear is watching. E com isso, ele nos diz que o dia está chegando, que a revelação se aproxima, e que nos veria em dois dias.
+Samuel havia achado cinco fragmentos do que pareciam ser documentos importantes para a investigação, e decidiu mostrar 
+para g_matrix. O que ambos não esperavam é que um certo usuário iria dar as caras. "t.g.o.f.i.w". The God of Fear is 
+watching. E com isso, ele nos diz que o dia está chegando, que a revelação se aproxima, e que nos veria em dois dias.
 
 Acessando oth3r.site para ver os fragmentos, tínhamos cinco partes de imagens distintas:
 
@@ -1074,7 +1135,8 @@ Acessando oth3r.site para ver os fragmentos, tínhamos cinco partes de imagens d
 ![fragmento5.png](./3_-_Samuel_norte/inf1nid4d3_/fragmento5.png)
 
 
-O que elas significam é um mistério. O que não era mistério era que, dia **28/10**, iríamos ter um encontro com "t.g.o.f.i.w".
+O que elas significam é um mistério. O que não era mistério era que, dia **28/10**, iríamos ter um encontro com 
+"t.g.o.f.i.w".
 
 
 
@@ -1082,7 +1144,9 @@ https://github.com/user-attachments/assets/9ef49683-11df-4a5b-b9aa-6066a0e8df66
 
 
 
-Às 15:05 de 28/10, Cellbit lançou o trailer da data de lançamento de Enigma do Medo, oficializando o dia 28 de Novembro de 2024 como o dia em que Enigma do Medo lançaria oficialmente. Junto disso, uma demonstração gratuita e jogável foi liberada para a comunidade.
+Às 15:05 de 28/10, Cellbit lançou o trailer da data de lançamento de Enigma do Medo, oficializando o dia 28 de 
+Novembro de 2024 como o dia em que Enigma do Medo lançaria oficialmente. Junto disso, uma demonstração gratuita e 
+jogável foi liberada para a comunidade.
 
 # Anotações
 
