@@ -1188,12 +1188,11 @@ jogável foi liberada para a comunidade.
 
 ## Redes Sociais
 ### v1s_un1ta_f0rt10r
-* [Reddit](https://www.reddit.com/user/v1s_un1ta_f0rt10r/)
 * [Instagram](https://www.instagram.com/v1s_un1ta_f0rt10r)
 * [Youtube](https://www.youtube.com/@v1s_un1ta_f0rt10r)
 
 ### Ordem
-* [Twitter](https://www.nuuvem.com/lp/pt/enigma-do-medo/)
+* [Twitter](https://x.com/OrdemParanormal/)
 * [Blue Sky](https://bsky.app/profile/ordemparanormal.com.br)
 * [Instagram](https://www.instagram.com/ordemparanormal/)
 * [TikTok](https://www.tiktok.com/@ordemparanormal)
