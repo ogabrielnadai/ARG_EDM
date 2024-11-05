@@ -1,0 +1,24 @@
+File: Anomalia.dat
+5 7 7 7 7 7 7 6 5 
+File: bRuma.dat
+4 5 7 6 6 5 5 6 7 7 
+File: crIptografia.dat
+4 7 7 5 4 7 5 5 4 
+File: desaparecimenTo.dat
+5 7 6 6 7 6 6 6 6 5 6 5 4 6 4 7 
+File: estranHo.dat
+7 7 7 6 5 7 5 7 5 7 6 5 7 6 5 5 
+File: forMa.dat
+6 6 6 6 5 5 7 7 4 6 5 7 6 5 5 6 
+File: ocultO.dat
+5 7 5 6 6 7 7 5 6 5 5 6 6 6 5 6 
+File: paradigMa.dat
+7 7 7 7 7 7 
+File: parAnormal.dat
+5 7 6 7 7 6 4 7 7 7 6 4 5 6 1 7 6 
+File: ruNa.dat
+5 5 4 4 6 7 6 5 
+File: sIna.dat
+5 6 5 7 5 7 6 5 5 6 7 4 4 6 6 5 5 
+File: transformAr.dat
+6 6 4 5 6 6 7 5 4 6 6 5 6 7 6 6 
