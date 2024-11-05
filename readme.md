@@ -1077,6 +1077,11 @@ Acessando oth3r.site para ver os fragmentos, tínhamos cinco partes de imagens d
 O que elas significam é um mistério. O que não era mistério era que, dia **28/10**, iríamos ter um encontro com "t.g.o.f.i.w".
 
 
+
+https://github.com/user-attachments/assets/9ef49683-11df-4a5b-b9aa-6066a0e8df66
+
+
+
 Às 15:05 de 28/10, Cellbit lançou o trailer da data de lançamento de Enigma do Medo, oficializando o dia 28 de Novembro de 2024 como o dia em que Enigma do Medo lançaria oficialmente. Junto disso, uma demonstração gratuita e jogável foi liberada para a comunidade.
 
 # Anotações
