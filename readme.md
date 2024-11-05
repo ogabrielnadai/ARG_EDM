@@ -953,25 +953,26 @@ peças de Mahjong. Ironicamente, descobrimos que as peças de Mahjong tinham um 
 E procurando mais sobre, descobrimos um site que havia exatamente os desenhos utilizados pelo enigma. 
 Comparando-os com o que tínhamos e já ordenando-os de 1 a 12:
 
-![All Tiles unicode](./3_-_Samuel_norte/cogito_ergo_sum/U/all_tiles_unicode.png)
+![All Tiles Unicode](./3_-_Samuel_norte/cogito_ergo_sum/U/all_tiles_unicode.png)
 
 Usando os valores Unicode dos caracteres, percebemos que, claro, eles eram similares aos códigos hexadecimais de cor. 
-Mas a nossa dica queria que fôssemos além: o final do código de cada caracter nos indicava para procurarmos pixels 
-que tivessem exatamente os valores dos caracteres em Unicode, só que no valor de B. Percebendo isso, vimos que em cada 
-imagem, tínhamos EXATAMENTE 12 pixels, e esses pixels seguiam o mesmo padrão de antes: o valor de R seguia de 1 a 12, 
-e os valores verdes eram f(x), representando F1 a F12.
+Mas a nossa dica queria que fôssemos além: o final do código de cada caractere nos indicava para procurarmos pixels 
+que tivessem exatamente os valores dos caracteres em Unicode, só que no valor de **B**. Percebendo isso, vimos que em cada 
+imagem, tínhamos **EXATAMENTE 12 pixels**, e esses pixels seguiam o mesmo padrão de antes: o valor de **R** seguia de 
+**1 a 12**, e os valores verdes eram **f(x)**, representando F1 a F12.
 
 ![Tiles solucao 1 ](./3_-_Samuel_norte/cogito_ergo_sum/U/titles_solucao_1.png)
 
 Com isso, um dos usuários da comunidade fez um código que identificava esses pixels específicos nas doze imagens, e 
 com isso, tínhamos uma lista da ordem das teclas que precisávamos inserir como senha para cada imagem. Inserindo todas 
-as sequências das doze imagens, cada uma nos fazia baixar 12 arquivos .dat com nomes diferentes.
+as sequências das doze imagens, cada uma nos fazia baixar 12 arquivos **.dat** com nomes diferentes.
 
-Baixando todos os arquivos .dat, tínhamos uma série de palavras, com algumas letras destacadas: "**[A]nomalia**", 
+Baixando todos os arquivos *.dat*, tínhamos uma série de palavras, com algumas letras destacadas: "**[A]nomalia**", 
 "**b[R]uma**", "**cr[I]ptografia**", "**desapareciimen[T]o**", "**estran[H]o**", "**for[M]a**", "**ocult[O]**", 
 "**paradig[M]a**", "**par[A]normal**", "**ru[N]a**", "**s[I]na**" e "**transform[A]r**". Destacando essas letras e 
-ordenando elas, tínhamos a palavra "ARITHMOMANIA", referente a Aritmomania, um dos tipos de **TOC** (transtorno 
-obsessivo-compulsivo) em que se há forte necessidade de contar as suas ações ou seus objetos ao redor.
+ordenando elas, tínhamos a palavra "[**ARITHMOMANIA**](https://pt.wikipedia.org/wiki/Aritmomania)", referente a 
+Aritmomania, um dos tipos de **TOC** (transtorno obsessivo-compulsivo) em que se há forte necessidade de contar as 
+suas ações ou seus objetos ao redor.
 
 Abrindo os nossos arquivos .dat com o bloco de notas, percebemos que eles tinham sequências de palavras. Como tínhamos 
 a referência da Aritmomania, pensamos em fazer primeiro a contagem de letras de cada palavra, nos levando a fazer uma 
@@ -990,6 +991,7 @@ fazer era separar os tamanhos dos arquivos, tendo assim a sequência de números
 "**68 68 58 112 114 111 112 48 115 49 116 111**".
 
 Decodificando esses números com a tabela ASCII:
+
 ![solucao dat 1](./3_-_Samuel_norte/cogito_ergo_sum/U/dat/solucao_dat_1.png)
 
 **DD**, significando D4ylight D3mon, e o próximo link a acessar: "**prop0s1to**".
@@ -1031,12 +1033,12 @@ Mas era a sequência necessária para achar algo a mais.
 
 E não deixando de lado o J e o S, que apareciam juntos, um do lado do outro, como a temática dessa parte do enigma 
 envolvia Tetris, decidimos testar se havia algo a ver com esses números em um site de Tetris que a comunidade já 
-estava bem acostumada: o "JStris". Usando o número que tínhamos como um link de um mapa no 
-[Jstris](https://jstris.jezevec10.com/play/map/87825):
+estava bem acostumada: o "**JStris**". Usando o número que tínhamos como um [link de um mapa no 
+Jstris](https://jstris.jezevec10.com/play/map/87825):
 
 ![Map do site](./3_-_Samuel_norte/prop0s1to/map_js_tetris.png)
 
-Mais uma vez ele. **v1s_un1ta_f0rt10r**. O nome do mapa, "iter", significava "jornada" em latim, o que significa que 
+Mais uma vez ele. **v1s_un1ta_f0rt10r**. O nome do mapa, "**iter**", significava "**jornada**" em latim, o que significa que 
 ele era realmente um mapa para usarmos do que um mapa para jogarmos. E na descrição, tínhamos uma sequência de números 
 positivos e negativos: "**+2 -8 1 4 1 -9 14**".
 
@@ -1049,7 +1051,7 @@ outro caminho reto...
 Uma sala com letras restantes do alfabeto (exceto as letras **HPZ**), e o que parecia ser um código no meio com 
 algumas das letras. O texto codificado que tínhamos era "**BMRPHWA**", e o que nos restava usar era a sequência de 
 números da descrição do mapa no Jstris. Usando a sequência como uma ordem de Shift Cipher (a primeira letra muda duas 
-letras para frente, a segunda letra muda 8 letras para trás), tínhamos a palavra "*DESTINO*".
+letras para frente, a segunda letra muda 8 letras para trás), tínhamos a palavra "***DESTINO***".
 
 ![Final caminho tetris](./3_-_Samuel_norte/prop0s1to/end_game.png)
 
